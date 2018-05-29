@@ -44,9 +44,8 @@
   * Go to your Shopify admin dashboard and navigate to **Online Store&gt;Themes.**
 
   * Then click Upload theme in the top-right corner. Select your theme file from your computer and click Upload.  
-    Only select one package at t**heme-package folder **from the folder you was extracted**.                      
-    **![](/assets/pizzaro-file-unzip.png)  
-    ![](/assets/select upload.png)
+                    
+    ![](/assets/pizzaro-file-unzip.png)  
 
   * Your new theme will show up below your current theme.
 
