@@ -1,4 +1,4 @@
-Shopify stores come with a page creation tool, which you can use to generate pages containing information that rarely changes, and that customers will use often, such as an **About page **or a **Contact page**.
+Shopify stores come with a page creation tool, which you can use to generate pages containing information that rarely changes, and that customers will use often, such as an **About us page **or a **Contact page**.
 
 You can add as many pages as you like to your store under Online store&gt;Pages, and configure where they appear under
 
@@ -12,22 +12,30 @@ We'll cover the settings for these below.
 
 From your Shopify admin, navigate to Online store &gt; Pages. Click the Add page button to open a new page template.
 
-![](https://www.pixelunion.net/wp-content/uploads/2016/08/Screen-Shot-2016-10-28-at-1.15.19-PM.png)
+![](/assets/add-new-page.png)
 
-From here, you can enter the Title and Content in the space provided, as well as set the Visibility and select a Page template. You'll notice that Launch comes with four templates: a general page template, a page.contact template, a page.faq template and a page.faq template. We'll cover the unique features of each of the following sections.
+From here, you can enter the Title and Content in the space provided, as well as set the Visibility and select a Page template. You'll notice that initially it comes with five usable templates: a general page template, a page.about template, a page.contact template, a page.lookbook template, and a page.lookbook-2 template. We'll cover the unique features of each of the following sections.
+
+* #### About Us Page
+* Step 1: Input title and select Template suffix are page.about, input some content you want.
+
+* Step 2: Go to Customize Theme &gt; Theme settings &gt; About Us Page to set up the content.
+
+
 
 * #### Contact Page
-* Step 1: Input title and select Template suffix are page.contact-us, not input the content.
+* Step 1: Input title and select Template suffix are page.contact, not input the content.
 
-* Step 2: Go to Customize Theme &gt; General settings &gt; Contact Page to set up the content.
+* Step 2: Go to Customize Theme &gt; Theme settings &gt; Contact Page to set up the content.
 
-**Similar to another page template**
+* #### Lookbook Page 1 and 2
+* Step 1: Input title and select Template suffix are page.lookbook or page.lookbook-2, not input the content.
 
-* #### Instagram Shop Page
+* Step 2: Go to Customize Theme &gt; Sections; navigate to page lookbook you have just opened. There will be a section corresponding to page suffix (page.lookbook or page.lookbook-2) to set up content.
 
-To build Instagram Shop Pages we have integrated the application of Snapppt.com. Please refer to the Instagram Shop Layout tutorial for creating layout here[http://www.getsnapppt.com/getting-started-guide](http://www.getsnapppt.com/getting-started-guide)
+    1.    Lookbook page 1
+![](/assets/lookbook_1.png)
+    2.    Lookbook page 2
+![](/assets/lookbook_2.png)
 
-After installing the application Instagram shop by Snapppt you have to create a new Shopify page and use this page to embed the layout you have configured from the Snapshot.
-
-You can easily embed this layout into your website via [https://snapppt.com/embeds](https://snapppt.com/embeds). Please read more at[http://help.snapppt.com/shopify/embedding-your-instagram-feed-in-shopify](http://help.snapppt.com/shopify/embedding-your-instagram-feed-in-shopify)
 
