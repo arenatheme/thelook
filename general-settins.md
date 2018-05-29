@@ -8,8 +8,8 @@
     ![](/assets/typography-2.png)
 
 ### 2. Color & Styles
+    * Site With Mode ( ), Backgroudng
 
-### ![](/assets/color & style.png)
 
 ### 3. Currency & Cart
 
