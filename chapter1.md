@@ -58,23 +58,18 @@ Please read more information about importing and exporting products at [Importin
 
 ##### Please refer to the installation manual at [https://help.shopify.com/manual/apps/working-with-apps\#install-an-app](https://help.shopify.com/manual/apps/working-with-apps#install-an-app)
 
-Mediamarket support 6 Shopify Apps below:
+Labelle supports 3 Shopify Apps below:
 
-* Arena Wishlist Shopify App - [Click here to Install ](/Click here to Install)
-
-* Arena Compare Shopify App - [Click here to Install](http://compare.arenathemes.com)
+1. Arena Wishlist Shopify App - [Click here to Install ](https://wishlist.arenathemes.com/apps/install )
 
 * Product Reviews: Product Review App made by Shopify. [Get App - Product Reviews](https://apps.shopify.com/product-reviews)
 
-* Free Shipping Bar App [Get App - Free Shipping Bar](https://apps.shopify.com/free-shipping-bar)
-
 * HelpCenter - Build an Attractive FAQs Page [Get App - FAQs Page](https://apps.shopify.com/helpcenter)
 
-* Instagram Shop by Snapppt [Get App - Instagram shop by Snapppt](https://apps.shopify.com/254e867e771ed335c210d8d84830371a)
 
 * **Install Shopify MetaFields & Custom Fields - Beta**
 
-Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. Example: you can have a short description, video embedded, 3d product embed... for each product.  
+Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. Example: you can have a short description, video embedded, 3d product embedded... for each product.  
 One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln).
 
 Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shopify/custom\_fields/freakdesign-custom-fields-for-shopify-guide.pdf](https://freakdesign-us.s3.amazonaws.com/shopify/custom_fields/freakdesign-custom-fields-for-shopify-guide.pdf)
@@ -117,36 +112,19 @@ Please refer to the user manual at:[https://freakdesign-us.s3.amazonaws.com/shop
    > > * key: buy\_with\_2
    > > * value: Add your product handle \#2
    >
-   > **Ingredients Meta Field**:
+   > **Countdown Meta Field**:
    >
    > > * namespace: c\_f
-   > > * key: ingredients
-   > > * value: Add the product ingredients description!
+   > > * key: countdown\_timer
+   > > * value: Please use mm/dd/yyyy
    >
-   > **Fire Icon Meta Field**:
-   >
-   > > * namespace: c\_f
-   > > * key: fire\_icon
-   > > * value: Add fire icon for your product
-   >
-   > **Veggie Icon Meta Field**:
-   >
-   > > * namespace: c\_f
-   > > * key: veggie\_icon
-   > > * value: Add fire icon for your product
-   >
-   > **Delivery Time Meta Field**:
-   >
-   > > * namespace: c\_f
-   > > * key: delivery
-   > > * value: Add delivery time detail for your product
 
 5. Use Custom Field to import data to the product  
    ![](/assets/product-custom-field.png)
 
    Another way to manage your product metafield is using meta field apps. You may try install: [https://apps.shopify.com/metafields-editor](https://apps.shopify.com/metafields-editor)
 
-6. ##### Update theme settings as demo
+* **Update theme settings as demo**
 
 The Edit code page lets you edit the code files that make up your theme.  
 From your Shopify admin, go to Online Store &gt; Themes. For the theme that you want to edit, click Actions, then click Edit code.  
