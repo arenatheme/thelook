@@ -1,4 +1,4 @@
-### How to install Pizzaro
+### How to install Labelle
 
 #### Method 1: ArenaThemes Install App
 
@@ -9,14 +9,14 @@
 3. Login and install our install apps  
    ![](/assets/install.png)
 
-4. Insert your purchase code. If you don't know how to get it [please get it here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code )  
+4. Insert your purchase code. If you don't know how to get it [please refer here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ):  
    ![](/assets/insert purchase code.png)
 
 5. Select Installation Menu  
-   ![](/assets/Installation menu.png)![](/assets/Install Options.png)Select Options and Click **Install Theme** and waiting to complete
+   ![](/assets/Installation menu.png)![](/assets/Install Options.png)Select Options, Click **Install Theme** and wait to complete
 
    > PLEASE TAKE CARE YOUR DATA  
-   > 1. Import PRODUCT, BLOG & ARTICLE, COLLECTION, PAGE SAMPLE DATA will require the removal corresponding data from your store to avoid the conflict. IT WILL DELETE DATA & CANNOT RECOVER.
+   > 1. Import PRODUCT, BLOG & ARTICLE, COLLECTION, PAGE SAMPLE DATA will require the removal of corresponding data from your store to avoid the conflict. IT WILL DELETE DATA & CANNOT RECOVER.
    >
    > Please ensure that you have backed up your data or accepted the deletion of this data.
    >
@@ -34,7 +34,7 @@
 
 * ##### **Upload your new theme package**
 
-  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-pizzaro-fast-food-restaurant-shopify-them.zip.
+  * If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-fashion-labelle-shopify-them.zip.
   * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there            
     **  
     ![](/assets/file-download.png)
