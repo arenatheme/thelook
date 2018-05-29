@@ -6,11 +6,11 @@ Once you've uploaded your theme, it's time to make it your own. While all of you
 
 Sections are customizable parts of your theme. They let you add, reorder, and remove chunks of content on your store's homepage.
 
-Each theme has a unique set of sections to choose from. Sections let you pick the types and order of content you want to feature on your homepage.![](/assets/pizzaro-theme-section.png)
+Each theme has a unique set of sections to choose from. Sections let you pick the types and order of content you want to feature on your homepage.![](/assets/Screenshot_1.png)
 
 ### General settings tab
 
 The General settings tab lets you make global changes to the look of your store, including typography, color and styles, cart, header, footer, mega navigation collection, product, blog layout as well as other extensions function.
 
-![](/assets/pizzaro-theme-setting.png)
+![](/assets/theme-settings.png)
 
