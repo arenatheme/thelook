@@ -21,7 +21,7 @@
 
 * Cart order notes, Block shopping cart. Labelle supports 2 types of cart: Dropdown & Sidebar Cart \(Off-Canvas\)
 
-![](/assets/cart.png)
+![](/assets/cart.jpg)
 
 
 
