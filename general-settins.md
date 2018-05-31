@@ -25,7 +25,13 @@
 
 * Labelle supports multi-currency. If you would like to setup it, please refer to the following instruction: [https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes](https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes)
 
-### 4. Extensions
+### 4. Mega Menu
+
+* Labelle supports 3 mega menus. Please refer to [this link](https://arenathemes.freshdesk.com/solution/articles/6000178155-how-to-setup-mega-menu-arenathemes) on how to setup this function.
+
+
+
+### 5. Extensions
 
 ### ![](/assets/extension.png)
 
