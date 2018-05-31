@@ -8,15 +8,24 @@
     ![](/assets/typography-2.png)
 
 ### 2. Color & Styles
-    * Site With Mode ( ), Backgroudng
+    * Site With Mode (Because this theme has quite exotic layout, this option is not applied to the following pages: home page, product pages, blog page and article pages)
+    * Background body page
+    * Body color
+    ![](/assets/color-style-1.png)
+    
+    * Breadcrumb, Owl carousel style, Button color
+    ![](/assets/color-style-2.png)
 
 
 ### 3. Currency & Cart
 
-* Pizzaro support multi-currency. If you would like to setting it you refer to the instruction here [https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes](https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes)
-* Pizzaro support 2 type of cart: Dropdown & Sidebar Cart \(Off-Canvas\)
+* Cart order notes, Block shopping cart. Labelle supports 2 types of cart: Dropdown & Sidebar Cart \(Off-Canvas\)
 
 ![](/assets/cart.png)
+
+
+
+* Labelle supports multi-currency. If you would like to setup it, please refer to the following instruction: [https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes](https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes)
 
 ### 4. Extensions
 
