@@ -17,13 +17,11 @@
     ![](/assets/color-style-2.png)
 
 
-### 3. Currency & Cart
+### 3. Cart Page
 
 * Cart order notes, Block shopping cart. Labelle supports 2 types of cart: Dropdown & Sidebar Cart \(Off-Canvas\)
 
 ![](/assets/cart.jpg)
-
-
 
 * Labelle supports multi-currency. If you would like to setup it, please refer to the following instruction: [https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes](https://arenathemes.freshdesk.com/solution/articles/6000193967-how-to-setup-multiple-currencies-arenathemes)
 
