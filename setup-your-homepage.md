@@ -1,10 +1,11 @@
-When you install automatically with the Arena Installation Apps, most of the Sections and  General Settings as well as the Products and other components we have included, you just need to adjust the parameters to use the same as the sample demo store. Clicking on any of these "sections" blocks will bring up a set of unique configuration settings, or you can click add a section, which will reveal an array of other optional sections that you can add to your homepage. We'll cover each of them in detail - more or less in the order they appear below.
+When you install our app [Arena Installation](https://install.arenathemes.com/admin/install), most of the Sections and  General Settings as well as the Products and other components will be included to your site, you just need to adjust the settings to be the same as the sample demo store. Clicking on any of these "section" blocks will bring up a set of unique configuration settings, or you can click "Add Section", which will reveal an array of other optional sections that you can add to your homepage. We'll cover each of them in detail - more or less in the order they appear below.
 
 ### **Fixed Homepage Block**
 
-Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are two fixed homepage block: **Top Bar, Header,  Service Block, Footer.**
+Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are four fixed homepage blocks: **Top Bar, Header,  Instagram-Newsletter Block, Footer.**
 
-**To Config Topbar, Header & Footer please go to Themes -&gt; Customize Theme -&gt; Theme Settings**![](/assets/theme-setting.png)![](/assets/fixed block.png)
+**To Config Topbar, Header & Footer please go to Themes -&gt; Customize Theme -&gt; Theme Settings**
+![](/assets/theme-settings.png)![](/assets/fixed block.png)
 
 ---
 
