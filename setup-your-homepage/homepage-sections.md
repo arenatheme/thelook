@@ -1,12 +1,12 @@
 ### **Dynamic Homepage Sections**
 
-**Pizzaro **homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking Delete section at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
+**Labelle** homepage sections are dynamic, meaning you can add as many of them as you want and rearrange them in the sidebar to create a completely unique layout. Out of the box, your theme has several dynamic sections enabled already. These are merely suggestions for how you might structure your homepage. Don’t want to include a section? Delete it! \(By clicking on it and clicking **'Remove section'** at the bottom.\) Want to include something that isn’t already there? Click Add section and find it on the list.
 
-By default, when you install with install apps, your homepage will be added sections as our demos. In order to customize with your style please read more detail of each section supported by the theme.
+By default, when you install with our [install apps](https://install.arenathemes.com/admin/install), sections will be added to your homepage as our demos. In order to customize with your style please read more detail of each section supported by the theme.
 
-Pizzaro support many drag & drop section that you can use to custom your homepage products.
+Labelle support many drag & drop sections that you can use to custom your homepage look.
 
-![](/assets/section-list.png)
+![](/assets/add_section.png)
 
 ### 1.SEPERATOR
 
@@ -20,19 +20,19 @@ Seperator Sections are used for the purpose of creating Whitespaces, Heading Tit
 
 * Background Style: Background of Content: Color / Image
 
-  **Content included 5 types \(Content Components\)  **
+  **Content included 5 types \(Content Components*\)  **
 
 * Spacing: White space
 
-* Line: Horizontal Line \(-------\)
+* Line: Horizontal Line \(Eg: -------\)
 
 * Heading: Only Heading Text
 
-* Heading Title with Logo
+* Heading with Logo
 
-* Heading Title with Line
+* Heading with Line
 
-  **Setting depend on Content Components**
+  ***Settings depend on Content Components**
 
 ### 2.SLIDESHOW
 
