@@ -36,12 +36,13 @@ Seperator Sections are used for the purpose of creating Whitespaces, Heading Tit
 
 ### 2.SLIDESHOW
 
-Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action.  
-![](/assets/section-slideshow.png)
+Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action. 
+![](/assets/section-slideshow.png) 
+
 
 **Setting:**
 
-* Full height: **Apply full height of image for slideshow**  
+* Lazyload  
 * Layout: **Select slideshow layout stype**  
   * Box   
   * Wide \(Full-Width\)
@@ -49,11 +50,8 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Auto-play delay time
 * Navigator: Show navigator button in slideshow \(Next Back\)
 * Bullet: show bullet icon
-* Animation: Slide/Fade/Cube/Coverflow
-* BLOCK 3 IMAGES ON THE RIGHT: Display 3 verticle images on right side of slideshow
+* Animation: Slide/Fade/Coverflow
 
-  * Image
-  * Link URL
 
   **Content:** Add your images for slideshow. Our Slideshow support to display image/video content on slideshow. You may setting following settings bellow
 
@@ -63,116 +61,42 @@ Sliders can be used on all kind of websites however they’re most commonly used
 
 * Link
 
-* Text Layer Content
+* Text Layer Content. Layer #2 is special because it has 2 styles:
+  1.Style #1: this style allows you to add a highlighted text to the slider.
+  ![](/assets/slider_style_1.png)
+    * Settings:
+    ![](/assets/slider_lv1_settings.png)
 
-  You may add **maximum 6** **slideshow** **content**.
+  2.Style #2:
+  ![](/assets/slider-lv2_03.jpg)
+    *  Settings:
+    ![](/assets/slider_style2_settings_1.png)
+    ![](/assets/slider-style2-settings-2.png)
+  
 
-### 3.COLLECTION & PRODUCT
+### 3.PRODUCT
 
-#### 3.1. COLLECTION LIST
+#### 3.1. ADVANCED PRODUCT TABS
 
-* Sections starting with the Collection are used to display collections on the website.
+This section allows you to add a banner going along with a product tabs
+![](/assets/advanced_product_tabs_03.jpg)
 
-  * Collection List: Listing Horizontal Image Link to Collection
+#### 3.2. PRODUCT TABS
+Displayed products are selected from the multi-collections in the form of multi-tabs.
+![](/assets/product-tabs.png)
 
-    ![](/assets/Collection List.png)
+#### 3.3. PRODUCT GRID
+Products are displayed in grid \(or horizontal line\)
+![](/assets/product_grid.png)
 
-  #### 3.2. PRODUCT
+#### 3.4. PRODUCT LISTING
+Products are displayed from the collection in the form of vertical column(s).
+![](/assets/product-listing_06.jpg)  
 
-  You can add more Product Sections & customize include:
+#### 3.5. SINGLE PRODUCT
 
-  ##### 3.2.1. Products Listing
-
-  Display products are selected from the collection in the form of vertical column.  
-  ![](/assets/section-product-listing.png)**Settings**
-
-* Lazyload: Apply lazyload effect for product image display
-
-* Layout: Box/Wide
-
-* Limited products for each collection: the number of products display each column.
-
-  **More Settings \(Theme Settings\)**
-
-* Product Review: You may display review below product image and product name
-
-  ##### 3.2.2. Products Grid
-
-  Display product images selected by grid \(or horizontal line\)  
-  ![](/assets/products-grid.png)Product Grid Sections may display product image depend on Type
-
-* One Horizontal Row:  when you select  **Limited items &gt; Number of items per row** and **Type = Row**  
-  $$(Limited Items : Number of Items per row) <1$$
-
-* Grid: when you select **Limited items &gt; Number of items per row **and **Type = Row**
-
-* Slide: when you select **Type = Carousel**
-
-  **Setting**
-
-* Layout : Box / Wide
-
-* Type: Row / Carousel
-
-* Padding
-
-* Borders
-
-* Text Options
-
-  **More Settings**[^1]
-
-* Style Options: Icon, Style, Hover Effect, Add to cart buttons
-
-* Product Vendor: Display Product Vendor tag
-
-* Color Swatch: Display Color Swatch
-
-* Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
-
-* Product Review
-
-* Label Settings
-
-* Quick View Product: display quick view icon when hover
-
-* Product Wishlist: display wishlist icon when hover
-
-* Product Compare: display compare icon when hover
-
-##### 3.2.3. Product Tabs
-
-Display products are selected from the multi-collection in the form of multi-tab  
-![](/assets/pizzaro-section-product-tab.png)  
-**Setting**
-
-* Layout : Box / Wide
-* Type: Row / Carousel
-* Padding
-* Borders
-* Text Options
-
-**More Settings**[^1]
-
-* Style Options: Icon, Style, Hover Effect, Add to cart buttons
-* Product Vendor: Display Product Vendor tag
-* Color Swatch: Display Color Swatch
-* Metafields Description Excerpt: c\_f.description\_excerpt: Display Short Desciption Content in Meta Field
-* Product Review
-* Label Settings
-* Quick View Product: display quick view icon when hover
-* Product Wishlist: display wishlist icon when hover
-* Product Compare: display compare icon when hover
-
-##### 3.2.4. Product Carousel & Banner
-
-Display a banner combine with a product casousel list
-
-![](/assets/section_product_carousel_banner.png)
-
-##### 3.2.5. Single Product
-
-Display only one product at homepage, support add to cart button![](/assets/section-product-single.png)
+Display only one product at homepage, support add to cart button, countdown timer, product variants
+![](/assets/single-product.png)
 
 ### 4. INFORMATION
 
