@@ -2,52 +2,75 @@ When you install our app [Arena Installation](https://install.arenathemes.com/ad
 
 ### **Fixed Homepage Block**
 
-Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are four fixed homepage blocks: **Top Bar, Header,  Instagram-Newsletter Block, Footer.**
+Fixed blocks are exactly what you’d guess they are—components that are fixed to certain areas of your site and cannot be moved. In our theme, there are four fixed homepage blocks: **Top Bar, Header, Instagram - Newsletter Block, Footer.**
 
 **To Config Topbar, Header & Footer please go to Themes -&gt; Customize Theme -&gt; Theme Settings**
-![](/assets/theme-settings.png)![](/assets/fixed block.png)
+![](/assets/theme-settings.png)![](/assets/fixed-blocks.png)
 
 ---
 
-#### **Top Bar \(only Header 1 style\)**
+#### **Top Bar**
+#### ![](/assets/topbar-header.jpg)
 
-#### ![](/assets/topbar - header.png)
-
-To Config Topbar go to **Theme Settings --&gt; Top Bar**
+To Config Top bar go to **Theme Settings --&gt; Header - Top Bar**
 
 #### ![](/assets/topbar.png)
 
 ---
 
 #### **Header**
+    
+Header appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned. **We support 4 styles of header.**
 
-The header is the rectangular area that runs across the top of your store containing your **logo, navigation, best deal block**, **store location block, and cart, search**. It appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned. **We support 4 styles of header.**
+    1. Header Style #1
+    ![](/assets/header_01.jpg)
+    
+    2. Header Style #2
+    ![](/assets/header_02.jpg)
+    
+    3. Header Style #3
+    ![](/assets/header_03.jpg)
+    
+    4. Header Style #4
+    Header style #4 is special because it has its own slideshow attached to it, so when you choose header style #4, you won't be able to use Section Slideshow.
+    ![](/assets/header-04_01.jpg)
 
-To Config Topbar go to **Theme Settings --&gt; Header**
 
-![](/assets/header.png)
+To Config Header, go to **Theme Settings --&gt; Header - Main**
 
-##### **Mega Navigation**
+![](/assets/header-settings.jpg)
 
-To install mega navigation please follow the instruction here: [https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-](https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-mega-menu-setting-version-1-)
+#### Instagram - Newsletter
 
----
+You can turn on this function at **Theme Settings --&gt; Bottom section --&gt; Instagram and Newsletter**
 
-#### Service Bar Block
+![](/assets/insta-newsletter.png)
 
-Depend on design, there is a block content before the footer.![](/assets/service block display.png)
+After turn it on, please go to section **Instagram and Newsletter** to config it.
+![](/assets/section-insta-news.png)
 
-To Config Service Bar please go to To Config Topbar go to **Theme Settings --&gt; Service Bar Block**
-
-![](/assets/service bar.png)
+You can use Instagram or Newsletter only or both.
+    * Instagram and Newsletter
+    ![](/assets/insta-wt-newsletter_02.jpg)
+    
+    * Instagram only
+    ![](/assets/insta only.png)
 
 #### **Footer**
 
-Like a footer on a document or report, a website footer contains the information listed at the bottom of a page. Typically, the footer is the area that visitors expect to find the "fine print"—legal information such as terms and conditions and privacy policies, but also FAQs, size guides, and contact information. Our theme provides the space to display all of these and more.
+Like a footer on a document or report, a website footer contains the information listed at the bottom of a page. Typically, the footer is the area that visitors expect to find the "fine print"—legal information such as **terms and conditions** and **privacy policies**, but also **FAQs**, and **contact information**. Our theme provides 3 footer styles.
 
-![](/assets/footer.png)
+    1. Footer Style #1
+    ![](/assets/ft_1.png)
+    
+    2. Footer Style #2
+    ![](/assets/ft_2.jpg)
+    
+    3. Footer Style #3
+    ![](/assets/ft_3_02.jpg)
+    
 
-### 
+
 
 
 
