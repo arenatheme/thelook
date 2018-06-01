@@ -33,7 +33,8 @@
 
 ### 5. Extensions
 
-### ![](/assets/extension.png)
+### ![](/assets/extension-1.jpg)
+### ![](/assets/extension-1-b.jpg)   
 
 
 
