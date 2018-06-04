@@ -8,7 +8,63 @@ Labelle support many drag & drop sections that you can use to custom your homepa
 
 ![](/assets/add_section.png)
 
-### 1.SEPERATOR
+### 1.BANNER
+Use to display images. There are 3 styles for text box used with banner:
+
+    * Style #1: Overlay text box. Text box is on the top of the image
+    ![](/assets/banner-style-1_03.jpg) 
+    
+    * Style #2: Text box with directional arrow. Text box will have an arrow directing to relevant image
+    ![](/assets/banner-style-2_03.jpg)
+    
+    * Style #3: Text box taking a part of banner. Text box will lay a part of itself on the image
+    ![](/assets/banner-style-3_02.jpg)
+
+### 2.INFORMATION
+#### 2.1. BLOG LIST
+Display you blog posts. There are 2 styles:
+    * Style #1:
+    ![](/assets/blog-style-1_02.jpg)
+    * Style #2:
+    ![](/assets/blog-style-2_06.jpg)
+    
+#### 2.2. SERVICE
+Display your store's services
+![](/assets/section-service_03.jpg)
+With background image
+![](/assets/section-service-bg_02.jpg)
+
+
+### 3. LOOKBOOK
+This is a variant of section banner, which can be used to lead to lookbook pages.
+![](/assets/section-lookbook_05.jpg)
+
+### 4.PRODUCT
+
+#### 4.1. ADVANCED PRODUCT TABS
+
+This section allows you to add a banner going along with a product tabs
+![](/assets/advanced_product_tabs_03.jpg)
+
+#### 4.2. PRODUCT TABS
+Displayed products are selected from the multi-collections in the form of multi-tabs.
+![](/assets/product-tabs.png)
+
+#### 4.3. PRODUCT GRID
+Products are displayed in grid \(or horizontal line\)
+![](/assets/product_grid.png)
+
+#### 4.4. PRODUCT LISTING
+Products are displayed from the collection in the form of vertical column(s).
+![](/assets/product-listing_06.jpg)  
+
+#### 4.5. SINGLE PRODUCT
+
+Display only one product at homepage, support add to cart button, countdown timer, product variants
+![](/assets/single-product.png)
+
+
+### 5.SEPERATOR
 
 Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing-section.png)
 
@@ -34,7 +90,8 @@ Seperator Sections are used for the purpose of creating Whitespaces, Heading Tit
 
   ***Settings depend on Content Components**
 
-### 2.SLIDESHOW
+
+### 6.SLIDESHOW
 
 Sliders can be used on all kind of websites however they’re most commonly used on business websites or professional portfolio websites. One clear advantage of using a slider is that website owners can place all their important content in a visually appealing and interactive slideshow at the top of the page before their main content. This allows users to quickly see the highlights and take action. 
 ![](/assets/section-slideshow.png) 
@@ -74,37 +131,11 @@ Sliders can be used on all kind of websites however they’re most commonly used
     ![](/assets/slider-style2-settings-2.png)
   
 
-### 3.PRODUCT
 
-#### 3.1. ADVANCED PRODUCT TABS
+    
 
-This section allows you to add a banner going along with a product tabs
-![](/assets/advanced_product_tabs_03.jpg)
 
-#### 3.2. PRODUCT TABS
-Displayed products are selected from the multi-collections in the form of multi-tabs.
-![](/assets/product-tabs.png)
 
-#### 3.3. PRODUCT GRID
-Products are displayed in grid \(or horizontal line\)
-![](/assets/product_grid.png)
 
-#### 3.4. PRODUCT LISTING
-Products are displayed from the collection in the form of vertical column(s).
-![](/assets/product-listing_06.jpg)  
 
-#### 3.5. SINGLE PRODUCT
-
-Display only one product at homepage, support add to cart button, countdown timer, product variants
-![](/assets/single-product.png)
-
-### 4. INFORMATION
-
-Newsletter sections is use to creat a newsletter form at homepage. You may custom background image/color. Change content for call to action form. ![](/assets/newsletter section.png)
-
-### 5. BANNER
-
-Use to creat list of banner, image,logo, instagram image at homepage. You can custom display with multi layout and options. ![](/assets/section banner.png)![](/assets/section-banner-2.png)
-
-[^1]: Some options here may effect to global website: collection page, product page.
 
