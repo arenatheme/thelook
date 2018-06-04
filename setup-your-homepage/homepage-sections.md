@@ -36,7 +36,7 @@ With background image
 
 
 ### 3. LOOKBOOK
-This is a variant of section banner, which can be used to lead to lookbook pages.
+This is a variant of section banner, which is used specifically to lead to lookbook pages.
 ![](/assets/section-lookbook_05.jpg)
 
 ### 4.PRODUCT
@@ -130,6 +130,25 @@ Sliders can be used on all kind of websites however they’re most commonly used
     ![](/assets/slider_style2_settings_1.png)
     ![](/assets/slider-style2-settings-2.png)
   
+### 7.ADVANCED LAYOUT
+#### CUSTOM CONTENT
+This special section allows you to add 8 different types:
+-  Text
+![](/assets/type-txt_09.jpg)
+-  Image
+![](/assets/type-image_10.jpg)
+With text box
+![](/assets/type-image-txbx_02.jpg)
+-  Video
+-  Product
+![](/assets/type-product.png)
+-  Collection
+![](/assets/type-collection.png)
+-  Custom HTML: if you know HTML, this will be a strong option for you to freely create, develop sections in your own style
+-  Blog
+
+-  Product tabs
+
 
 
     
