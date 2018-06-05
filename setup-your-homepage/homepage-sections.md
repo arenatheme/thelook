@@ -144,10 +144,20 @@ With text box
 ![](/assets/type-product.png)
 -  Collection
 ![](/assets/type-collection.png)
--  Custom HTML: if you know HTML, this will be a strong option for you to freely create, develop sections in your own style
--  Blog
-
+-  Custom HTML: if you know HTML, this will be a strong option for you to freely create, develop layouts in your own style.
+-  Blog: there are 2 styles
+  1.  Style #1
+![](/assets/type-blog_03.jpg)
+  2.  Style #2
+  ![](/assets/type-blog-2_02.jpg)
 -  Product tabs
+![](/assets/type-product-tabs_03.jpg)
+
+Each type will have respective settings, but most general ones are:
+- Container width: set width for a block. It ranges between 25% and  100%.
+-  Clear padding: choose whether you would like to clear padding for a block.
+-  Vertical alignment: Set position relative to other content blocks on the same row
+-  Horizontal alignment: Set left, center or right horizontal alignment. 
 
 
 
