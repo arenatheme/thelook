@@ -144,7 +144,7 @@ With text box
 ![](/assets/type-product.png)
 -  Collection
 ![](/assets/type-collection.png)
--  Custom HTML: if you know HTML, this will be a strong option for you to freely create, develop layouts in your own style.
+-  Custom HTML: if you know HTML, this will be a powerful option for you to freely create, develop layouts in your own style.
 -  Blog: there are 2 styles
   1.  Style #1
 ![](/assets/type-blog_03.jpg)

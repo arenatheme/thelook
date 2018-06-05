@@ -1,29 +1,73 @@
-Your products and collection pages are the lifeblood of your e-commerce store. They're where you display your products, convey their value, and, if you're lucky, make the sale.
+Your products and collection pages are the lifeblood of your e-commerce store. They're where you display your products, convey their value; and, if you're lucky, make the sale.
 
-You'll upload and configure your products and collections in the Shopify admin \(you can read more about that here\), but when it comes to customizing how they display, you'll do that within the theme editor. Just navigate to the page in the theme editor and you'll see a section pop up, giving you access to settings specific to that page.
+You'll upload and configure your products and collections in the Shopify admin \(you can read more about that [here](https://help.shopify.com/manual/products)\), but when it comes to customizing how they display, you'll do that within the theme editor. Just navigate to the page in the theme editor and you'll see a section pop up, giving you access to settings specific to that page.
 
-We'll give you the rundown of the settings for each page below
+We'll give you the rundown of the settings for each page below.
 
 ### Product pages
+There are seven theme templates (except 'product.compare') for you to choose how you would like to display your product:
+   ![](/assets/theme templates.png)
+   #### 1.   product: 
+   This is the default template. 
+   https://fashion-labelle.myshopify.com/products/black-fashion-zapda
+   #### 2.   product.buy_with: 
+   This template allows you to add 2 more additional products along main product. Customers can choose to buy 1, 2 or all 3 products.   
+   https://fashion-labelle.myshopify.com/products/quisque-placerat-libero
+   #### 3.   product.fashion-thumbnails:  
+   https://fashion-labelle.myshopify.com/products/freshkix-product-sample
+   #### 4.   product.fashion:
+   https://fashion-labelle.myshopify.com/products/daltex-product-example
+   #### 5.   product.group:
+   https://fashion-labelle.myshopify.com/products/donkix-product-sample
+   #### 6.   product.left-sidebar:
+   https://fashion-labelle.myshopify.com/products/golddax-product-example?variant=6912727646268
+   #### 7.   product.right-sidebar:
+   https://fashion-labelle.myshopify.com/products/consectetur-nibh-eget
+   
 
-To set the layout of your product pages go to **Theme Editor &gt; Theme Settings.**
+To setup your product pages, go to **Theme Editor &gt; Theme Settings &gt; Product**
 
-You may set your product layout at tab:
-
-**- Product: **You could configure your product content at this tab. If you want to display just click to tick this option turn on.
+You could configure your product content at this tab. Choose which options you would like to turn on/off.
 
 * Vendor tag
 * Product Code \(SKU\)
 * product categories \(product collection\)
 * Show remaining quantity message when less than 10 items are in stock
 * Use variant images for swatch color
-* Extended Icon: Show icon below the Share social icon
 
 You can config to turn on **COLOR AND SIZE SWATCHES **function. You can read more detail about color & size swatch here: [https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties](https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties)
 
-* **Product Sidebar**: Sidebars play an important role in designing the layout of an e-commerce website to display content other than the main of a website. You may config to open sidebar or disable sidebar \(non-sidebar\) and config content to show in the sidebar
+**CUSTOM TEXT FIELD**
+![](/assets/custom-txt-field.png)
 
-* **Product Label:  **Configuration of label **SALE / NEW **show on your product. At notice: Please add product's tag is 'Label New' to make this label visible, and make sure config products compare price to make this label visible.
+**SECURE & PAYPAL IMAGES**
+![](/assets/secure-paypal.png)
+
+**PRODUCT TABS**
+Labelle supports 2 main tab styles:
+   1.   Style #1 - Horizontal tab:
+   ![](/assets/tab-style-1_02.jpg)
+   2.   Style #2 - Vertical tab:
+   ![](/assets/product-tab-2.png)
+Besides, there is an additional style particularly for templates 'product.left-sidebar', 'product.right-sidebar', 'product.fashion-thumbnails', 'product.fashion', 'product.group' and default template 'product' when used with product sidebar. When you turn on this option, it will override other 2 styles and replace them with accordion tab style.
+![](/assets/product-tab-3.png)   
+
+**RELATED PRODUCT**
+This function allows you to show a slider of products, which can be chosen from same collection or same vendor with the main product.
+![](/assets/related-products.png)
+
+### Product Sidebar
+
+Please note that all settings in this section only work for template 'product' and 'product.group'.
+You can choose where to display your product side bar (left or right).
+![](/assets/product-sidebar.png)
+
+### Product Label
+Configuration of label **SALE / NEW **show on your product. 
+NOTE: Please add product's tag is 'Label New' to make this label visible.
+You can also adjust your product text color (price, title, sold out etc) here.
+
+
 
 ### Collection pages
 
