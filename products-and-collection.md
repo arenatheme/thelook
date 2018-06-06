@@ -132,7 +132,7 @@ You can choose where to display your product side bar (left or right).
 ![](/assets/product-sidebar.png)
 
 ### Product Label
-Configuration of label **SALE / NEW **show on your product. 
+Configuration of label **SALE / NEW **showed on your product. 
 NOTE: Please add product's tag is 'Label New' to make this label visible.
 You can also adjust your product text color (price, title, sold out etc) here.
 
