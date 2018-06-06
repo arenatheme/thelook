@@ -123,7 +123,11 @@ This function allows you to show a slider of products, which can be chosen from 
 ### Product Sidebar
 
 Please note that all settings in this tab only work for template 'product' and 'product.group'.
+
+
 You can choose where to display your product side bar (left or right).
+
+
 ![](/assets/product-sidebar.png)
 
 ### Product Label
