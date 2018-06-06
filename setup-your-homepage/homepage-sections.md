@@ -182,9 +182,7 @@ With text box
 
 ![](/assets/type-product.png)
 
-
 -  Collection
-
 
 ![](/assets/type-collection.png)
 
