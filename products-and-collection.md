@@ -97,7 +97,7 @@ You can configure your product content at this tab. Choose which options you wou
 * Show remaining quantity message when less than 10 items are in stock
 * Use variant images for swatch color
 
-You can config to turn on **COLOR AND SIZE SWATCHES **function. You can read more detail about color & size swatch here: [https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties](https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties)
+You can turn on **COLOR AND SIZE SWATCHES **function. You can read more detail about color & size swatch here: [https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties](https://help.shopify.com/themes/customization/products/features/add-color-swatches-using-line-item-properties)
 
 **CUSTOM TEXT FIELD**
 ![](/assets/custom-txt-field.png)
