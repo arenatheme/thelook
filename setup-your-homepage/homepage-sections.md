@@ -119,7 +119,7 @@ Sliders can be used on all kind of websites however they’re most commonly used
 **Setting:**
 
 * Lazyload  
-* Layout: **Select slideshow layout stype**  
+* Layout: **Select slideshow layout style**  
   * Box   
   * Wide \(Full-Width\)
 * Auto Play: auto switch between slide
