@@ -1,12 +1,12 @@
 * Go to **Admin --&gt; Online Store --&gt; Themes --&gt; Customize Theme --&gt; Theme Settings**
 
 ### 1. Typography
-*Change Favicon and Loading Icon (Support gif file)
+* Change Favicon and Loading Icon (Support gif file)
 
 
 ![](/assets/typography-1.png)
 
-*Font size & Google Web Fonts
+* Font size & Google Web Fonts
 
 
 ![](/assets/typography-2.png)
