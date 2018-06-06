@@ -3,6 +3,7 @@
 ### 1. Typography
 *Change Favicon and Loading Icon (Support gif file)
 
+
 ![](/assets/typography-1.png)
 
 *Font size & Google Web Fonts
