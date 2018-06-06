@@ -115,6 +115,9 @@ Besides, there is an additional style particularly for templates 'product.left-s
 ![](/assets/product-tab-3.png)   
 
 **RELATED PRODUCT**
+
+
+
 This function allows you to show a slider of products, which can be chosen from same collection or same vendor with the main product.
 ![](/assets/related-products.png)
 
