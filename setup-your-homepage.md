@@ -50,11 +50,11 @@ After turn it on, please go to section **Instagram and Newsletter** to config it
 ![](/assets/section-insta-news.png)
 
 You can use Instagram or Newsletter only or both.
-    * Instagram and Newsletter
-    ![](/assets/insta-wt-newsletter_02.jpg)
+*Instagram and Newsletter
+![](/assets/insta-wt-newsletter_02.jpg)
     
-    * Instagram only
-    ![](/assets/insta only.png)
+*Instagram only
+![](/assets/insta only.png)
 
 #### **Footer**
 
