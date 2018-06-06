@@ -1,20 +1,20 @@
 * Go to **Admin --&gt; Online Store --&gt; Themes --&gt; Customize Theme --&gt; Theme Settings**
 
 ### 1. Typography
-    * Change Favicon and Loading Icon (Support gif file)
-    ![](/assets/typography-1.png)
-    * Font size & Google Web Fonts
-    
-    ![](/assets/typography-2.png)
+* Change Favicon and Loading Icon (Support gif file)
+![](/assets/typography-1.png)
+* Font size & Google Web Fonts
+
+![](/assets/typography-2.png)
 
 ### 2. Color & Styles
-    * Site With Mode (Because this theme has quite exotic layout, this option is not applied to the following pages: home page, product pages, blog page and article pages)
-    * Background body page
-    * Body color
-    ![](/assets/color-style-1.png)
-    
-    * Breadcrumb, Owl carousel style, Button color
-    ![](/assets/color-style-2.png)
+* Site With Mode (Because this theme has quite exotic layout, this option is not applied to the following pages: home page, product pages, blog page and article pages)
+* Background body page
+* Body color
+![](/assets/color-style-1.png)
+
+* Breadcrumb, Owl carousel style, Button color
+![](/assets/color-style-2.png)
 
 
 ### 3. Cart Page
