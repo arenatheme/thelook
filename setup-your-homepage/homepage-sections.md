@@ -28,7 +28,7 @@ Use to display images. There are 3 styles for text box used with banner:
 
 
 ![](/assets/banner-style-3_02.jpg)
-</br>
+
 You can also use your banner as a background image. However, please note that this option **ONLY** works with text box style #1 - Overlay text box
 </br>
 ![](/assets/banner-as-bg_02.jpg)
