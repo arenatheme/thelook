@@ -56,11 +56,11 @@ After turn it on, please go to section **Instagram and Newsletter** to config it
 
 You can use Instagram or Newsletter only or both.
 
-*    Instagram and Newsletter
+    *    Instagram and Newsletter
 
 ![](/assets/insta-wt-newsletter_02.jpg)
     
-*    Instagram only
+    *    Instagram only
 
 ![](/assets/insta only.png)
 
