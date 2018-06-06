@@ -157,13 +157,13 @@ Sliders can be used on all kind of websites however they’re most commonly used
   
   ![](/assets/slider-lv2_03.jpg)
   
-    *  Settings:
-    
-    
-    ![](/assets/slider_style2_settings_1.png)
-    
-    
-    ![](/assets/slider-style2-settings-2.png)
+*  Settings:
+
+
+![](/assets/slider_style2_settings_1.png)
+
+
+![](/assets/slider-style2-settings-2.png)
   
 ### 7.ADVANCED LAYOUT
 #### CUSTOM CONTENT
