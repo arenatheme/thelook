@@ -32,10 +32,18 @@ Use to display images. There are 3 styles for text box used with banner:
 ### 2.INFORMATION
 #### 2.1. BLOG LIST
 Display you blog posts. There are 2 styles:
-    * Style #1:
-    ![](/assets/blog-style-1_02.jpg)
-    * Style #2:
-    ![](/assets/blog-style-2_06.jpg)
+
+
+* Style #1:
+
+
+![](/assets/blog-style-1_02.jpg)
+
+
+* Style #2:
+
+
+![](/assets/blog-style-2_06.jpg)
     
 #### 2.2. SERVICE
 Display your store's services
