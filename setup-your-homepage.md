@@ -58,8 +58,6 @@ You can use Instagram or Newsletter only or both.
 
 
 
-
-
 *    Instagram and Newsletter
 
 ![](/assets/insta-wt-newsletter_02.jpg)
