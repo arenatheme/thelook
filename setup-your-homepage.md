@@ -22,19 +22,19 @@ To Config Top bar go to **Theme Settings --&gt; Header - Top Bar**
     
 Header appears on every page and is intended to be used to promote your company's brand and make it instantly recognizable to your visitors. This is a static block and cannot be repositioned. **We support 4 styles of header.**
 
-1.Header Style #1
+    1.Header Style #1
 
 ![](/assets/header_01.jpg)
 
-2.Header Style #2
+    2.Header Style #2
 
 ![](/assets/header_02.jpg)
 
-3.Header Style #3
+    3.Header Style #3
 
 ![](/assets/header_03.jpg)
 
-4.Header Style #4
+    4.Header Style #4
 
 Header style #4 is special because it has its own slideshow attached to it, so when you choose header style #4, you won't be able to use Section Slideshow.
 
