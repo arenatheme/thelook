@@ -65,7 +65,9 @@ If you have a lot of products, then you can enable subgroups to help your custom
 
 ### Product pages
 There are seven theme templates (except 'product.compare') for you to choose how you would like to display your product:
-</br>
+
+
+
    ![](/assets/theme templates.png)
    #### 1.   product: 
    This is the default template. 
