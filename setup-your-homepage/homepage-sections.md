@@ -181,9 +181,9 @@ With text box
 
 
 ![](/assets/type-product.png)
-
+</br>
 -  Collection
-
+</br>
 ![](/assets/type-collection.png)
 
 
