@@ -34,14 +34,12 @@ Use to display images. There are 3 styles for text box used with banner:
 Display you blog posts. There are 2 styles:
 
 
-* Style #1:
-
+*  Style #1:
 
 ![](/assets/blog-style-1_02.jpg)
 
 
-* Style #2:
-
+*  Style #2:
 
 ![](/assets/blog-style-2_06.jpg)
     
