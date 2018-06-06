@@ -64,7 +64,8 @@ If you have a lot of products, then you can enable subgroups to help your custom
 5. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
 
 ### Product pages
-There are seven theme templates (except 'product.compare') for you to choose how you would like to display your product:</br>
+There are seven theme templates (except 'product.compare') for you to choose how you would like to display your product:
+</br>
    ![](/assets/theme templates.png)
    #### 1.   product: 
    This is the default template. 
