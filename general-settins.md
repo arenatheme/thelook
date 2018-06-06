@@ -4,7 +4,9 @@
 *Change Favicon and Loading Icon (Support gif file)
 
 ![](/assets/typography-1.png)
+
 *Font size & Google Web Fonts
+
 ![](/assets/typography-2.png)
 
 ### 2. Color & Styles
