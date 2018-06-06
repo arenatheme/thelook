@@ -87,7 +87,7 @@ Display only one product at homepage, support add to cart button, countdown time
 
 Seperator Sections are used for the purpose of creating Whitespaces, Heading Titles in the layout.![](/assets/spacing-section.png)
 
-**General Setting for Section**:
+**General setting for this section**:
 
 * Top Margin: Margin Top of Content
 
