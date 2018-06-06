@@ -4,6 +4,65 @@ You'll upload and configure your products and collections in the Shopify admin \
 
 We'll give you the rundown of the settings for each page below.
 
+### Collection pages
+There are three theme templates for you to choose how you would like to display your collection:
+![](/assets/collection-templates.png)
+
+   #### 1.   collection: 
+   This is the default template. Your products in this collection will be displayed in a grid view style.
+   https://fashion-labelle.myshopify.com/collections/all
+   #### 2.   collection.list: 
+   This template allows you to display products in a list view style.   
+   https://fashion-labelle.myshopify.com/collections/denim
+   #### 3.   collection.order-form:  
+   Displaying products under this template will allow your customers to choose multi-products and add them to cart at the same. 
+   https://fashion-labelle.myshopify.com/collections/spring
+
+### Collection
+
+To config settings for collection, go to **Theme Editor &gt; Theme Settings &gt; Collection**
+
+Choose which options you would like to turn on/off.
+
+* Enable Collection's description & choose their position to show
+* Enable Grid/List
+* Enable Sort by
+* Number of products per row to show at collection page. Please note that if you use collection sidebar, then it's better to choose 2 - 3 products per row for best experience.
+* Number of products per page: set how many products you would like to show in one page (Limit is 50 products)
+
+In this tab, you will also have options to select between 2 hover styles:
+   ![](/assets/hover-style.png)
+   1. Style #1: Product image will be changed when you hover it.
+   2. Style #2: Product image will get zoomed in when you hover it.
+
+### Collection Sidebar
+You can choose where to display your collection side bar (left or right) or not to display it.
+![](/assets/collection-sidebar.png)
+
+It's important to set up your filter navigation at collection sidebar. Setting includes **Filter by tag / Filter by Group**
+
+* **Filter by tag: Using your product tags as the filter**
+* **Filter by group**
+
+
+If you have a lot of products, then you can enable subgroups to help your customers sort your products:
+
+![](https://help.shopify.com/assets/images/manual/themes/supply-advanced-filtering.png?1520884325)
+
+1. Define your groups. In the image above, the groups are Brand, Focal Length, and Resolution.
+2. [Export all your products into a .csv file.](https://help.shopify.com/manual/products/import-export/export-products)
+3. Prepend all existing tags with the name of the group you want them to be in, with the format
+   **Group\_Tag Name**
+   . For this example, some of the tags would be
+   **Brand\_Canon**
+   ,
+   **Focal Length\_18 - 55mm**
+   , and
+   **Resolution\_12 MP.**
+   The left side of the underscore is the group name, and the right side is the tag for the product. Spaces can be included on either side of the underscore.
+4. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
+5. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
+
 ### Product pages
 There are seven theme templates (except 'product.compare') for you to choose how you would like to display your product:
    ![](/assets/theme templates.png)
@@ -58,7 +117,7 @@ This function allows you to show a slider of products, which can be chosen from 
 
 ### Product Sidebar
 
-Please note that all settings in this section only work for template 'product' and 'product.group'.
+Please note that all settings in this tab only work for template 'product' and 'product.group'.
 You can choose where to display your product side bar (left or right).
 ![](/assets/product-sidebar.png)
 
@@ -67,50 +126,3 @@ Configuration of label **SALE / NEW **show on your product.
 NOTE: Please add product's tag is 'Label New' to make this label visible.
 You can also adjust your product text color (price, title, sold out etc) here.
 
-
-
-### Collection pages
-
-To set the layout of your product pages go to **Theme Editor &gt; Theme Settings.**
-
-You may set your collection layout at tab:
-
-**- Collection: **You could configure your collection content at this tab. If you want to display just click to tick this option turn on
-
-* Collection's description  & position to show
-* Enable Grid/List/Masonry
-* Enable Sort by
-* Number of Products to show at collection page per row.
-
-The setting of product style show on collection page:
-
-* Text box-align: Position show text
-* Icon
-* Style
-* Hover effect
-* Add to cart style: button/text
-
-**- Collection Sidebar: **You could configure content collection sidebar. It's important to set up your filter navigation at collection sidebar here. Setting included**Filter by tag / Filter by Group**
-
-* **Filter by tag: Using your product tag as the filter**
-* **Filter by group**
-
-#### Use advanced group filtering
-
-If you have a lot of products, then you can enable subgroups to help your customers sort your products:
-
-![](https://help.shopify.com/assets/images/manual/themes/supply-advanced-filtering.png?1520884325)
-
-1. Define your groups. In the image above, the groups are Brand, Focal Length, and Resolution.
-2. [Export all your products into a .csv file.](https://help.shopify.com/manual/products/import-export/export-products)
-3. Prepend all existing tags with the name of the group you want them to be in, with the format
-   **Group\_Tag Name**
-   . For this example, some of the tags would be
-   **Brand\_Canon**
-   ,
-   **Focal Length\_18 - 55mm**
-   , and
-   **Resolution\_12 MP.**
-   The left side of the underscore is the group name, and the right side is the tag for the product. Spaces can be included on either side of the underscore.
-4. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
-5. Save your .csv. file and import the products back into your store. Make sure you check Overwrite existing products that have the same handle when uploading the file to prevent duplicate products from being created.
