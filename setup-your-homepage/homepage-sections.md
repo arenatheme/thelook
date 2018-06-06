@@ -176,7 +176,10 @@ This special section allows you to add 8 different types:
 With text box
 ![](/assets/type-image-txbx_02.jpg)
 -  Video
+
 -  Product
+
+
 ![](/assets/type-product.png)
 -  Collection
 ![](/assets/type-collection.png)
