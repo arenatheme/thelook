@@ -89,7 +89,7 @@ There are seven theme templates (except 'product.compare') for you to choose how
 
 To setup your product pages, go to **Theme Editor &gt; Theme Settings &gt; Product**
 
-You could configure your product content at this tab. Choose which options you would like to turn on/off.
+You can configure your product content at this tab. Choose which options you would like to turn on/off.
 
 * Vendor tag
 * Product Code \(SKU\)
