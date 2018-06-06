@@ -27,7 +27,7 @@ Choose which options you would like to turn on/off.
 * Enable Collection's description & choose their position to show
 * Enable Grid/List
 * Enable Sort by
-* Number of products per row to show at collection page. Please note that if you use collection sidebar, then it's better to choose 2 - 3 products per row for best experience.
+* Number of products per row to show at collection page. Please note that if you use collection sidebar, it's better to choose 2 - 3 products per row for best experience.
 * Number of products per page: set how many products you would like to show in one page (Limit is 50 products)
 
 In this tab, you will also have options to select between 2 hover styles:
