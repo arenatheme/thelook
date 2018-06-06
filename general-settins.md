@@ -12,12 +12,15 @@
 ![](/assets/typography-2.png)
 
 ### 2. Color & Styles
-Site With Mode (Because this theme has quite exotic layout, this option is not applied to the following pages: home page, product pages, blog page and article pages)
-*Background body page
-*Body color
+*    Site With Mode (Because this theme has quite exotic layout, this option is not applied to the following pages: home page, product pages, blog page and article pages)
+*    Background body page
+*    Body color
+
 ![](/assets/color-style-1.png)
 
-*Breadcrumb, Owl carousel style, Button color
+
+*    Breadcrumb, Owl carousel style, Button color
+
 ![](/assets/color-style-2.png)
 
 
