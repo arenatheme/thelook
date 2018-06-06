@@ -16,7 +16,7 @@ From your Shopify admin, navigate to Online store &gt; Pages. Click the Add page
 
 From here, you can enter the Title and Content in the space provided, as well as set the Visibility and select a Page template. You'll notice that initially it comes with five usable templates: a general page template, a page.about template, a page.contact template, a page.lookbook template, and a page.lookbook-2 template. We'll cover the unique features of each of the following sections.
 
-* #### About Us Page  
+* #### About Us Page <br/> 
     * Step 1: Input title and select Template suffix are page.about, input some content you want.  
     * Step 2: Go to Customize Theme &gt; Theme settings &gt; About Us Page to set up the content.
 
