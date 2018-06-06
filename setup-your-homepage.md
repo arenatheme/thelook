@@ -60,14 +60,14 @@ You can use Instagram or Newsletter only or both.
 
 Like a footer on a document or report, a website footer contains the information listed at the bottom of a page. Typically, the footer is the area that visitors expect to find the "fine print"—legal information such as **terms and conditions** and **privacy policies**, but also **FAQs**, and **contact information**. Our theme provides 3 footer styles.
 
-    1. Footer Style #1
-    ![](/assets/ft_1.png)
-    
-    2. Footer Style #2
-    ![](/assets/ft_2.jpg)
-    
-    3. Footer Style #3
-    ![](/assets/ft_3_02.jpg)
+1.Footer Style #1
+![](/assets/ft_1.png)
+
+2.Footer Style #2
+![](/assets/ft_2.jpg)
+
+3.Footer Style #3
+![](/assets/ft_3_02.jpg)
     
 
 
