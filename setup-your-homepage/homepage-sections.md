@@ -134,6 +134,8 @@ Sliders can be used on all kind of websites however they’re most commonly used
 * Link
 
 * Text Layer Content. Layer #2 is special because it has 2 styles:
+
+
   1.Style #1: this style allows you to add a highlighted text to the slider.
   ![](/assets/slider_style_1.png)
     * Settings:
