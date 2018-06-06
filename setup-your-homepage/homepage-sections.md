@@ -145,13 +145,24 @@ Sliders can be used on all kind of websites however they’re most commonly used
 
   1.Style #1: this style allows you to add a highlighted text to the slider.
   ![](/assets/slider_style_1.png)
+  
+  
     * Settings:
+    
+    
     ![](/assets/slider_lv1_settings.png)
 
   2.Style #2:
+  
+  
   ![](/assets/slider-lv2_03.jpg)
+  
     *  Settings:
+    
+    
     ![](/assets/slider_style2_settings_1.png)
+    
+    
     ![](/assets/slider-style2-settings-2.png)
   
 ### 7.ADVANCED LAYOUT
