@@ -147,10 +147,10 @@ Sliders can be used on all kind of websites however they’re most commonly used
   ![](/assets/slider_style_1.png)
   
   
-    * Settings:
-    
-    
-    ![](/assets/slider_lv1_settings.png)
+* Settings:
+
+
+![](/assets/slider_lv1_settings.png)
 
   2.Style #2:
   
