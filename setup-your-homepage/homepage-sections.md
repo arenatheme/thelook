@@ -11,15 +11,21 @@ Labelle support many drag & drop sections that you can use to custom your homepa
 ### 1.BANNER
 Use to display images. There are 3 styles for text box used with banner:
 
-*  Style #1: Overlay text box. Text box is on the top of the image
+
+*  Style #1: Overlay text box. Text box is on the top of the image.
+
 
 ![](/assets/banner-style-1_03.jpg) 
 
-* Style #2: Text box with directional arrow. Text box will have an arrow directing to relevant image
+
+* Style #2: Text box with directional arrow. Text box will have an arrow directing to relevant image.
+
 
 ![](/assets/banner-style-2_03.jpg)
 
-* Style #3: Text box taking a part of banner. Text box will lay a part of itself on the image
+
+* Style #3: Text box taking a part of banner. Text box will lay a part of itself on the image.
+
 
 ![](/assets/banner-style-3_02.jpg)
 
