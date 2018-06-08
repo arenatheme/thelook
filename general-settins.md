@@ -66,8 +66,7 @@ Other settings in Extensions:
 
 
 
+![](/assets/shti.jpg)
 
-
-![](/assets/extension-1-b-dasd.jpg)
 
 
