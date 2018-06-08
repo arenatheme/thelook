@@ -68,6 +68,6 @@ Other settings in Extensions:
 
 
 
-![](/assets/extension-1-b  dasd.jpg)
+![](/assets/extension-1-b-dasd.jpg)
 
 
