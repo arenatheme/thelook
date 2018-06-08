@@ -69,7 +69,7 @@ Other settings in Extensions:
 
 
 
-### ![](/assets/extension-1-b.jpg)   
-
+  
+![](/assets/extension-1-b.jpg)
 
 
