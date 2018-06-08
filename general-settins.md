@@ -49,8 +49,6 @@ Labelle also supports new cookie settings, which can meet the EU's requirement f
 
 
 
-
-
 ![](/assets/cookie.png)
 
 
