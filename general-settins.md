@@ -46,6 +46,11 @@
 
 
 Labelle also supports new cookie settings, which can meet the EU's requirement for General Data Protection Regulation (GDPR).
+
+
+
+
+
 ![](/assets/cookie.png)
 
 
