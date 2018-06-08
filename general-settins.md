@@ -48,11 +48,24 @@
 Labelle also supports new cookie settings, which can meet the EU's requirement for General Data Protection Regulation (GDPR).
 ![](/assets/cookie.png)
 
+
+
+
  
 If "EU Cookie AutoDetect" is turned on, it will automatically detect your customers' country. If they live in EU region, the cookie notification will be displayed. Otherwise, it will be hidden. 
 
 
+
+
+
+
 Other settings in Extensions:
+
+
+
+
+
+
 ### ![](/assets/extension-1-b.jpg)   
 
 
