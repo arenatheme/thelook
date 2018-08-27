@@ -4,7 +4,7 @@
 
 There are 2 ways to install our theme package as demo website: Manual & Arena Oneclick Install Application
 
-{% sample lang="Arena Oneclick Install" %}
+{% sample lang="Arena Oneclick Install App" %}
 
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 2. Enter Your Store URL  
