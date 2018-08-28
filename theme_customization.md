@@ -126,7 +126,22 @@ Banner category has 5 sections:
 **2.2. COLLECTION CATEGORY**
 
 * **Collection List**
-
+ - Settings:
+ 
+  ![](/assets/sec_col_list_settings.png)
+  
+ - You can choose to display it as 'Row' or 'Carousel' and set its style as 'Full' or 'Simple'   
+ 
+ - Demo:
+ 
+   *  Style as 'Full'
+   
+   ![](/assets/sec_col_list_full.png)
+   
+   * Style as 'Simple'
+   
+   ![](/assets/sec_col_list_simple.png)
+     
 
 
 
