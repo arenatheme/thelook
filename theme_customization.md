@@ -59,15 +59,75 @@ Banner category has 5 sections:
 
  - This section allows you to add images as type 'Row' or 'Carousel'.
  
- - To add images, please use blocks. Block can also be used 
+ - To add images, please use blocks.
+ 
+ - You can also add text box, which has 2 styles, for additional info to your images.
  
  - Settings:
  
- ![](/assets/sec_img_gallery_settings.png) 
+ ![](/assets/sec_img_gallery_settings.png)
+ 
+ - Demos:
+ 
+   * Demo 1 (Type 'Row', Text box 'Style #1')
+   
+   ![](/assets/sec_image_gallery_demo_02.png)
+   
+   * Demo 2 (Type 'Row', Text box 'Style #2')
+   
+   ![](/assets/sec_img_gallery_demo_2_03.png)
 
+
+ * **Instagram Shop**
+ 
+  - This section can help you increase sales by making your Instagram feed instantly shoppable. In order to use it, please install app [Snapppt](https://apps.shopify.com/instagram-shop-by-snapppt).
+  
+  - Settings:
+  
+  ![](/assets/sec_insta_settings.png)
+  
+  - There are 2 styles in this section:
+  
+    * Just Instagram
     
+    ![](/assets/just_insta.png)
+    
+    * Instagram with title
+    
+    ![](/assets/insta_wt_title.png)
+    
+    
+* **Lookbook**
+ - Demo:
+ 
+ ![](/assets/sec_lookbook_demo.png)
+ 
+ - Settings: 
+ 
+ ![](/assets/sec_lookbook_settings.png)
 
+
+* **Policies**
+ - Settings:
         
+ ![](/assets/sec_policies_settings.png)
+ 
+ - Demo:
+ 
+   * Style #1:
+   
+   ![](/assets/sec_policies_demo_1.png)
+   
+   * Style #2:
+   
+   ![](/assets/sec_policies_demo_2_03_02.png)
+   
+
+**2.2. COLLECTION CATEGORY**
+
+* **Collection List**
+
+
 
 
 {% common %}
