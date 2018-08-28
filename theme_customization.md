@@ -141,7 +141,19 @@ Banner category has 5 sections:
    * Style as 'Simple'
    
    ![](/assets/sec_col_list_simple.png)
-     
+   
+* **Products Grid**
+ - Display a list of products as 'Row' or 'Carousel'.
+ 
+ - There are 2 styles:
+ 
+   * Style #1, type 'Carousel'
+   
+   ![](/assets/sec_prods_grid_demo_1.png)
+
+   * Style #2, type 'Row' 
+   
+   ![](/assets/sec_prods_grid_demo_2.png) 
 
 
 
