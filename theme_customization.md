@@ -31,21 +31,41 @@ This document will walk you through these 13 sections on what their purposes are
 **2.1. BANNER CATEGORY**
 
 Banner category has 5 sections:
-* Advanced Banners:
 
-   * Demo 1:
+* **Advanced Banners:**
+
+  - This section gives you 2 columns, 1 for a big picture and 1 for content. 
+  
+  - Settings:
+  
+  ![](/assets/sec_adv_settings.png)
+
+  - You can choose either Style #1 or Style #2, but please note that if you choose Style #2, you need to use blocks to add additional images
+   
+   * Demo 1 (Style #1):
    
    ![](/assets/sec_adv_banner_demo_1.png)
    
-   * Demo 2:
+   * Demo 2 (Style #2):
    
    ![](/assets/sec_adv_banner_demo_2.png)
    
-   * Demo 3:
+   * Demo 3 (Style #1):
    
    ![](/assets/sec_adv_banner_demo_3.png)
    
    
+* **Image Gallery**
+
+ - This section allows you to add images as type 'Row' or 'Carousel'.
+ 
+ - To add images, please use blocks. Block can also be used 
+ 
+ - Settings:
+ 
+ ![](/assets/sec_img_gallery_settings.png) 
+
+    
 
         
 
