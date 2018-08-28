@@ -3,9 +3,11 @@
 ## Installation
 
 * [Theme Package](README.md)
+* [Theme Customization](/theme_customization.md)
 
-## Configuration
+## 
 
-* [Defining Methods](methods.md)
-  * [Test](methods/test.md)
+
+
+
 
