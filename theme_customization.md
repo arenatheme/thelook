@@ -154,6 +154,10 @@ Banner category has 5 sections:
    * Style #2, type 'Row' 
    
    ![](/assets/sec_prods_grid_demo_2.png) 
+   
+ - Settings:
+ 
+   ![](/assets/sec_prod_grid_settings.png)   
 
 
 
