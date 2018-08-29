@@ -98,6 +98,7 @@ Banner category has 5 sections:
     
     
 * **Lookbook**
+
  - Demo:
  
  ![](/assets/sec_lookbook_demo.png)
@@ -108,6 +109,7 @@ Banner category has 5 sections:
 
 
 * **Policies**
+
  - Settings:
         
  ![](/assets/sec_policies_settings.png)
@@ -126,6 +128,7 @@ Banner category has 5 sections:
 **2.2. COLLECTION CATEGORY**
 
 * **Collection List**
+
  - Settings:
  
   ![](/assets/sec_col_list_settings.png)
@@ -143,6 +146,7 @@ Banner category has 5 sections:
    ![](/assets/sec_col_list_simple.png)
    
 * **Products Grid**
+
  - Display a list of products as 'Row' or 'Carousel'.
  
  - There are 2 styles:
@@ -158,6 +162,77 @@ Banner category has 5 sections:
  - Settings:
  
    ![](/assets/sec_prod_grid_settings.png)   
+
+* **Products Tabs**
+
+  - Settings:
+  
+  ![](/assets/sec_prod_tab_settings.png)
+  
+  - You can choose between type 'Carousel' and 'Row'. In addition, there are also 2 title styles
+   
+   * Type 'Carousel', title style #1
+   
+   ![](/assets/sec_prod_tab_carousel.png)
+   
+   * Type 'Row', title style #2
+   
+   ![](/assets/sec_prod_tab_row.png)
+
+**2.3. INFORMATION CATEGORY**
+
+* **Blog List**
+
+ - Add your blogs/articles to Homepage
+ 
+ - Settings:
+ 
+ ![](/assets/sec_blog_list_settings.png)
+ 
+ - Demo:
+ 
+ ![](/assets/sec_blog_list_demo.png)
+ 
+* **Newsletter**
+
+ - Settings:
+ 
+ ![](/assets/sec_news_settings.png)
+
+ - Demo:
+ 
+   * Button Style #1:
+   
+   ![](/assets/sec_news_demo_1_02.png) 
+   
+   * Button Style #2:
+   
+   ![](/assets/sec_news_demo_2_02.png)
+
+**2.4. SEPARATOR CATEGORY**
+
+ - This section is used to create spaces between other sections.
+ 
+ - There are four styles:
+ 
+ ![](/assets/sec_separator_components.png)
+ 
+   1. Spacing: Create blank space to separate sections.
+   
+   2. Heading: Create space with heading to separate a section with another.
+   
+   ![](/assets/sec_separator_heading.png)
+   
+   ![](/assets/sec_separator_heading_demo.png)
+   
+   3. Heading with Line: Create space with heading and line to separate a section with another.
+   
+   ![](/assets/sec_separator_heading_line.png)
+    
+ 
+
+
+
 
 
 
