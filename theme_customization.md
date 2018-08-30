@@ -224,10 +224,15 @@ Banner category has 5 sections:
    ![](/assets/sec_separator_heading.png)
    
    ![](/assets/sec_separator_heading_demo.png)
-   
    3. Heading with Line: Create space with heading and line to separate a section with another.
    
    ![](/assets/sec_separator_heading_line.png)
+   4. Heading with Dot & Line Image
+   
+   ![](/assets/sec_separator_heading_dot_line.png)
+   
+    - Demo:
+    ![](/assets/sec_separator_heading_dot_line_demo.png)
     
  
 
