@@ -299,6 +299,29 @@ Banner category has 5 sections:
     
     ![](/assets/sec_cc_video_settings.png)
 
+    - Demo:
+    
+    ![](/assets/sec_cc_video_demo.png) 
+    
+  * **Product:**
+    
+    - Settings:
+    
+    ![](/assets/sec_cc_product_settings.png)
+    
+    - Demo: 
+    
+    ![](/assets/sec_cc_product_demo.png)
+  
+  * **Collection:**
+  
+    - Settings: 
+    
+    ![](/assets/sec_cc_col_settings.png)
+    
+    - Demo: 
+    
+    ![](/assets/sec_cc_col_demo.png)
 
 {% common %}
 
