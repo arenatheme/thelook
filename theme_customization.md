@@ -235,14 +235,31 @@ Banner category has 5 sections:
 
    ![](/assets/sec_separator_heading_dot_line_demo.png)
     
-**2.4. SEPARATOR CATEGORY**
+**2.5. SLIDESHOW CATEGORY**
 
-    
+ - Settings:
  
+ ![](/assets/sec_slideshow_settings_1.png)
+ 
+ ![](/assets/sec_slideshow_settings_2.png)
 
+ - Section slideshow has 4 styles:
+ 
+  * Style #1: with this style, your current slide will be centered and you still have a glimpse of next and previous images.
+  
+  ![](/assets/sec_slideshow_style1.png)
 
+  * Style #2: with this style, when hovering next and prev buttons, you can have a glimpse of next and previous images.
+  
+  ![](/assets/sec_slideshow_style2.png)
 
-
+  * Style #3: with this style, you can attach social widget to either left or right side of the slideshow or choose not to display it.
+  
+  ![](/assets/sec_slideshow_style3.png)
+  
+  * Style #4
+  
+  ![](/assets/sec_slideshow_style4.png)
 
 
 {% common %}
