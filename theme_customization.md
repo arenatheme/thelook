@@ -261,6 +261,44 @@ Banner category has 5 sections:
   
   ![](/assets/sec_slideshow_style4.png)
 
+**2.6. SLIDESHOW CATEGORY**
+
+ - This is a very powerful section with various types, allowing you to choose setup a layout of your own.
+ 
+ ![](/assets/sec_custom_content_types.png)
+ 
+ - Firstly, let take a look at its general settings:
+ 
+ ![](/assets/sec_custom_content_general_settings.png)
+ 
+ - Then let explore further to each type, what its purpose and settings
+ 
+  * **Text:** 
+  
+    - Settings:
+    
+     ![](/assets/sec_cc_text_settings.png) 
+     
+     - Demo: 
+     
+     ![](/assets/sec_cc_text_demo.png)
+     
+  * **Image:**
+  
+    - Settings:
+    
+    ![](/assets/sec_cc_img_settings.png)
+    
+    - Demo: 
+    
+    ![](/assets/sec_cc_img_demo.png)
+  
+  * **Video:**
+  
+    - Settings: 
+    
+    ![](/assets/sec_cc_video_settings.png)
+
 
 {% common %}
 
