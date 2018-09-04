@@ -346,7 +346,9 @@ Banner category has 5 sections:
     ![](/assets/sec_cc_col_list_demo.png)                            
 
 {% sample lang="Theme settings" %}
-    
+
+
+        
 
 {% common %}
 
