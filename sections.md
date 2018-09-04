@@ -25,8 +25,11 @@ General sections are sections which appear all pages in the theme.
  
  ![](/assets/sec-header.png)
 
+* **Footer:**
 
-
+ - Settings:
+ 
+ ![](/assets/sec-footer.png)
 
 
 
