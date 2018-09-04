@@ -15,6 +15,20 @@ If a section is separated from others via top and bottom spaces, it is static.
 
 Let's explore static sections used in this theme.
 
+**1.1. General sections**
+
+General sections are sections which appear all pages in the theme.
+
+* **Header:**
+ 
+ - Settings:
+ 
+ ![](/assets/sec-header.png)
+
+
+
+
+
 
 
 
