@@ -45,6 +45,18 @@ General sections are sections which appear all pages in the theme.
     
     ![](/assets/ft-style3_03.png)
 
+**1.2. Home page**
+
+At home page, there is a static section which is also Slideshow. However, this slideshow only appears when header's current style is 1.
+
+ - Settings:
+ 
+ ![](/assets/header-1-slideshow.png)
+
+ - Demo:
+ 
+ ![](/assets/header-1-slideshow-demo.png)
+
 
 
 {% sample lang="Dynamic sections" %}
