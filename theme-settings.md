@@ -34,7 +34,8 @@ At **Cart Page**, you can customize:
  * Free shipping: this option is used as an notification to your customers to encourage them to spend a required amount of money in order to enjoy free shipping.
  
  You can set the target amount of money (which customers need to reach in order to enjoy free shipping) here. However, your inputted figure has to be equivalent to the [free shipping rate](https://help.shopify.com/en/manual/shipping/rates-and-methods/free-shipping) you set up. 
- The notification will be displayed in the sidebar cart:
+ 
+ This notification will be displayed in the sidebar cart:
  
  ![](/assets/free-ship-notif-cart-sb.png)                
   
