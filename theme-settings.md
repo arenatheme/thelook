@@ -12,7 +12,10 @@ At **Typography**, you can customize:
 At **Colors & Style**, you can customize:
  * Site Width Mode.
  * Background body page.
- * Breadcrumb
- * 
+ * Breadcrumb.
+ * Body color.
+ * Navigation color.
+ * Footer color.
+ * Button 01 & 02.
  
  
