@@ -334,7 +334,16 @@ Banner category has 5 sections:
     ![](/assets/sec_cc_pg_demo.png)    
     
   * **Custom HTML:** if you know HTML, this will be a powerful option for you to freely create, develop layouts in your own style.
-      
+  
+  * **Collection List:**   
+  
+    - Settings:
+    
+    ![](/assets/sec_cc_col_list_settings.png) 
+    
+    - Demo:
+    
+    ![](/assets/sec_cc_col_list_demo.png)                            
   
 
 {% common %}
