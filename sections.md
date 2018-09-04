@@ -13,6 +13,10 @@ If a section is separated from others via top and bottom spaces, it is static.
         
 ![](/assets/static_section.png)
 
+Let's explore static sections used in this theme.
+
+
+
 
 {% sample lang="Dynamic sections" %}
 
@@ -28,7 +32,7 @@ These 13 sections are assigned to corresponding categories.
 
 This document will walk you through these 13 sections on what their purposes are and how to set up, configure them.
 
-**2.1. BANNER CATEGORY**
+**1.1. BANNER CATEGORY**
 
 Banner category has 5 sections:
 
@@ -125,7 +129,7 @@ Banner category has 5 sections:
    ![](/assets/sec_policies_demo_2_03_02.png)
    
 
-**2.2. COLLECTION CATEGORY**
+**1.2. COLLECTION CATEGORY**
 
 * **Collection List**
 
@@ -179,7 +183,7 @@ Banner category has 5 sections:
    
    ![](/assets/sec_prod_tab_row.png)
 
-**2.3. INFORMATION CATEGORY**
+**1.3. INFORMATION CATEGORY**
 
 * **Blog List**
 
@@ -209,7 +213,7 @@ Banner category has 5 sections:
    
    ![](/assets/sec_news_demo_2_02.png)
 
-**2.4. SEPARATOR CATEGORY**
+**1.4. SEPARATOR CATEGORY**
 
  - This section is used to create spaces between other sections.
  
@@ -235,7 +239,7 @@ Banner category has 5 sections:
 
    ![](/assets/sec_separator_heading_dot_line_demo.png)
     
-**2.5. SLIDESHOW CATEGORY**
+**1.5. SLIDESHOW CATEGORY**
 
  - Settings:
  
@@ -261,7 +265,7 @@ Banner category has 5 sections:
   
   ![](/assets/sec_slideshow_style4.png)
 
-**2.6. SLIDESHOW CATEGORY**
+**1.6. SLIDESHOW CATEGORY**
 
  - This is a very powerful section with various types, allowing you to choose setup a layout of your own.
  
