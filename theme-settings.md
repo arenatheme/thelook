@@ -18,4 +18,11 @@ At **Colors & Style**, you can customize:
  * Footer color.
  * Button 01 & 02.
  
+### Cart Page
+At **Cart Page**, you can customize:
+ * Disable Ajax Cart: when this option is turned on, ajax-auto-update function will be disable, meaning which any changes in product quantity in your cart page, you will need to manually click 
+ 
+  ![](/assets/disable-ajax-cart.png) 
+   
+ 
  
