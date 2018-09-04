@@ -1,14 +1,11 @@
 {% method %}
 
-In Shopify, you can edit your site via **Sections **and **Theme settings**
-(_New to Shopify? Please refer to [this](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings) to get knowledge of what **Sections **and **Theme settings** are_)
-
-{% sample lang="Sections" %}
+{% sample lang="Static sections" %}
 
 Sections let you empower merchants by giving them greater flexibility when customizing their online store ([source](https://www.shopify.com/partners/blog/introducing-sections-for-shopify-themes)). 
 There are two types of Sections: Static and Dynamic .
 
-### **1. Static sections:** 
+### **Static sections:** 
         
 Static sections are sections which will be added statically to specific parts or pages of the theme. Static sections basically have all the functions like dynamic ones, except they can not be moved.
         
@@ -16,7 +13,10 @@ If a section is separated from others via top and bottom spaces, it is static.
         
 ![](/assets/static_section.png)
 
-### **2. Dynamic sections:** 
+
+{% sample lang="Dynamic sections" %}
+
+### **Dynamic sections:** 
 Simply, dynamic sections are sections which can be moved around and
 only used at Homepage. With dynamic sections, you can create your own Homepage style.
 
@@ -343,12 +343,7 @@ Banner category has 5 sections:
     
     - Demo:
     
-    ![](/assets/sec_cc_col_list_demo.png)                            
-
-{% sample lang="Theme settings" %}
-
-
-        
+    ![](/assets/sec_cc_col_list_demo.png)                                    
 
 {% common %}
 
