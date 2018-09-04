@@ -3,7 +3,8 @@
 ## Installation
 
 * [Theme Package](README.md)
-* [Theme Customization](/theme_customization.md)
+* Theme Customization
+    * [Sections](sections.md)
 
 ## 
 
