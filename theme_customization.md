@@ -322,6 +322,20 @@ Banner category has 5 sections:
     - Demo: 
     
     ![](/assets/sec_cc_col_demo.png)
+    
+  * **Product Grid:**
+    
+    - Settings: 
+    
+     ![](/assets/sec_cc_pg_settings.png)
+     
+    - Demo:
+    
+    ![](/assets/sec_cc_pg_demo.png)    
+    
+  * **Custom HTML:** if you know HTML, this will be a powerful option for you to freely create, develop layouts in your own style.
+      
+  
 
 {% common %}
 
