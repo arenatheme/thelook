@@ -192,6 +192,9 @@ At **FOMO Popup**, you can customize:
  * Visitor Pop Product Page
  
  ![](/assets/visitor-pop.png)
+ 
+### Popup Newsletter
+### Checkout (default Shopify settings) 
 
 
  
