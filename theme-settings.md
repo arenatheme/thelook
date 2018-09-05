@@ -147,7 +147,7 @@ The following instruction will teach you how to set up a horizontal or vertical 
   ![](/assets/image-type.png)
   
 ### Product Item Style
-At **Cart Page**, you can customize:
+At **Product Item Style**, you can customize:
  * Use variant images for swatch color: 
   - If turned on:
   
@@ -170,7 +170,34 @@ At **Cart Page**, you can customize:
  
  ![](/assets/new_label.png)
  
+ Please also add tag 'Label New' to your product to enable this function
+ 
+ ![](/assets/new_label_tag.png)
+ 
  * Product Color and Size
+ 
+### Extensions
+At **Extensions**, you can customize:
+ * Enable/Disable: Lazyload, Sticky Menu, Quick View Button, Button Back To Top.
+ * EU Cookie Policy.
+ * Social Sharing on Article and Password pages.
+ * Social icons 1 --> 4.
+ 
+### FOMO (Fear Of Missing Out) Popup 
+At **FOMO Popup**, you can customize:
+ * Sales Pop
+ 
+ ![](/assets/fomo popup.png)
+ 
+ * Visitor Pop Product Page
+ 
+ ![](/assets/visitor-pop.png)
+
+
+ 
+ 
+ 
+ 
        
 
 
