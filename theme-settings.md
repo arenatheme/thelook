@@ -146,7 +146,35 @@ The following instruction will teach you how to set up a horizontal or vertical 
   
   ![](/assets/image-type.png)
   
+### Product Item Style
+At **Cart Page**, you can customize:
+ * Use variant images for swatch color: 
+  - If turned on:
   
+  ![](/assets/turn-on-swatch.png)
+  
+  - If turned off:
+  
+  ![](/assets/swatch-color.png)
+  
+ * Hover effect:
+  - Switch image: product will switch image when you hover it (product needs to have more than 1 image to use effect)
+  - Overlay: Product will have an overlay on it when being hovered.
+  
+ * Text align for product item: Left, right or center.
+ * Sale Label:
+ 
+ ![](/assets/sale_label.png)
+ 
+ * New Label:
+ 
+ ![](/assets/new_label.png)
+ 
+ * Product Color and Size
+       
+
+
+    
 
 
    
