@@ -43,6 +43,28 @@ At **Cart Page**, you can customize:
  
  ![](/assets/free-ship-notif-cart-page.png)  
    
+ * Multiple Currency: choose whether to show multiple currency.
+ 
+ ![](/assets/multiple_currency.png)
+ 
+ * Add to cart redirect
+ * Cart order notes
+ 
+ ![](/assets/order_note.png)
+ 
+ * Shipping Calculator
+ 
+ ![](/assets/shipping_cal.png)
+ 
+ * Terms and Conditions
+ 
+ ![](/assets/term-con.png)
+ 
+ * Upsell Products: a slider of products which appearing below your cart info in cart page. 
+ 
+![](/assets/upsell.png)
+
+
    
  
  
