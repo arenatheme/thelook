@@ -99,8 +99,17 @@ Their settings mostly are the same. Let's explore their general settings and par
     
     ![](/assets/sale-meta.png)
   
- * Product tabs:
+ * Product tabs: Product tabs will use blocks for data.
+ 
+ ![](/assets/product-tabs.png)  
+ 
+ If you use block type 'Description', in order to use multi-tabs with heading 5 tag, please refer to [this](https://arenathemes.freshdesk.com/solution/articles/6000177903-product-multi-tab-description-tab-missing-problem-arenathemes)
+ 
  (**NOTE:** **_product.stick-description-2_** does not have option for _Product tab alignment_)            
+
+ * Related Product: show a product slider on product page for products related to the main product.
+ 
+ ![](/assets/related-product.png)
 
 {% common %}
 
