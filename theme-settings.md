@@ -60,7 +60,7 @@ At **Cart Page**, you can customize:
  
  ![](/assets/term-con.png)
  
- * Upsell Products: a slider of products which appearing below your cart info in cart page. 
+ * Upsell Products: a product slider which appears below your cart info in cart page. 
  
 ![](/assets/upsell.png)
 
