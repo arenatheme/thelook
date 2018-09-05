@@ -128,6 +128,12 @@ The following instruction will teach you how to set up a horizontal or vertical 
   
   * Product Item
   
+  ![](/assets/product-item.png)
+  
+  * Image
+  
+  ![](/assets/image-type.png)
+  
   
 
 
