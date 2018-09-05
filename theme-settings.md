@@ -64,6 +64,34 @@ At **Cart Page**, you can customize:
  
 ![](/assets/upsell.png)
 
+### Header
+At **Header**, you can choose header styles as well as upload menu to use for header. After setting up all things here, please remember to go to **Sections** > **Header** to continue header configuration.
+ - Style #1: When choosing this style, there will be a static section slideshow attached with this header so you can not use dynamic section slideshow. 
+ 
+ Also, this style has a vertical menu so you need to upload a vertical menu in **Theme settings** > **Header** in order to use it.
+ 
+![](/assets/header-style1_01.png)
+
+- Style #2:
+
+![](/assets/header-style2_01.png)
+
+- Style #3:
+
+![](/assets/header-style3_01.png)
+
+- Style #4:
+
+![](/assets/header-style4_01.png)
+
+- Style #5:
+
+![](/assets/header-style5_01.png)
+
+### Mega Navigation (Horizontal Mega Menu)
+
+
+
 
    
  
