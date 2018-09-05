@@ -116,15 +116,27 @@ The following instruction will teach you how to set up a horizontal or vertical 
  
  - After that, the theme will be able to identify where to add the mega menu to. You only need to config the columns and other stuff in Mega menu settings to show a mega menu that you want. 
  
- - Each column has 4 usable styles with their corresponding settings:
+ - Each column has 4 usable styles with their corresponding settings as well as other general settings:
  
-  * Menu Item
+  * Menu Item: used for single level menu
   
-  ![](/assets/menu-item.png)
+    - Demo settings:
+    
+    ![](/assets/menu-item-setup.png)
+    
+    - Result:
+  
+    ![](/assets/menu-item.png)
  
-  * Multiple Menu Item
+  * Multiple Menu Item: used for nested menu (only for 2 levels)
   
-  ![](/assets/multiple-menu.png) 
+    - Demo settings:
+  
+    ![](/assets/multiple-menu-setup.png)
+    
+    - Result:
+  
+    ![](/assets/multiple-menu.png) 
   
   * Product Item
   
