@@ -88,9 +88,47 @@ At **Header**, you can choose header styles as well as upload menu to use for he
 
 ![](/assets/header-style5_01.png)
 
-### Mega Navigation (Horizontal Mega Menu)
+### Mega Navigation (Horizontal) & Vertical Mega Navigation
+Our theme supports 3 mega navigations (MN) and 3 vertical mega navigations (VMN). The difference between them is VMN has 3 columns meanwhile MN has up to 5 columns per menu
+ - Demo:
+ 
+  * Mega Navigation:
+  
+  ![](/assets/horizontal-mega.png)
+  
+  * Vertical Mega Navigation:
+  
+  ![](/assets/vertical-mega.png)
 
+The following instruction will teach you how to set up a horizontal or vertical mega navigation:
 
+ - If you want to add mega menu to any menu item, add sub menu item(s) to that menu item. In this case we added a sub menu item 'Test' to 'Home' because we wanted to add mega menu to 'Home'
+ 
+ ![](/assets/mega menu-step1.png)
+ 
+ - Create an empty menu with title the same as your menu item 'Home'. This menu will be used as an _anchor_ to identify where the mega menu is going to be added to. 
+ 
+ ![](/assets/mega menu-step2.png)
+ 
+ - In your theme settings, choose whether you want to add horizontal or Vertical mega menu. Then at the very first 'Menu item' option, choose the empty menu that you created in 2nd step.
+ 
+ ![](/assets/mega menu-step3.png)
+ 
+ - After that, the theme will be able to identify where to add the mega menu to. You only need to config the columns and other stuff in Mega menu settings to show a mega menu that you want. 
+ 
+ - Each column has 4 usable styles with their corresponding settings:
+ 
+  * Menu Item
+  
+  ![](/assets/menu-item.png)
+ 
+  * Multiple Menu Item
+  
+  ![](/assets/multiple-menu.png) 
+  
+  * Product Item
+  
+  
 
 
    
