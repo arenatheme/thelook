@@ -2,3 +2,9 @@
 
 {% sample lang="Static sections" %}
 
+
+
+{% common %}
+
+
+{% endmethod %}
