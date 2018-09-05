@@ -11,7 +11,8 @@
     * [Sections](sections.md)
     * [Theme settings](theme-settings.md)
 
-## 
+* [Templates](templates.md)
+    
 
 
 
