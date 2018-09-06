@@ -152,10 +152,32 @@ Their settings mostly are the same. Let's explore their general settings and par
 {% sample lang="Collection Templates" %}
 
 There are 3 collection templates:
- * product
- * product.bundle
- * product.full
-     
+ * collection
+ * collection.infinite
+ * collection.order-form
+
+In order to select a template for your collection, at the very bottom of the most right column of your collection admin window, please find section '**Theme templates**'
+
+![](/assets/col-templates.png)
+
+### collection
+
+![](/assets/col-settings.png)
+
+![](/assets/col-settings-short-des.png)
+
+ * Filter
+ * Sidebar Settings:
+  * Sidebar Placement
+  * Sidebar Categories
+  * Sidebar Product List
+  
+### collection.infinite
+
+Basically, this template's settings are all the same to **collection **template. The differne 
+
+
+          
 
 {% common %}
 
