@@ -183,7 +183,7 @@ At **Extensions**, you can customize:
  * Social Sharing on Article and Password pages.
  * Social icons 1 --> 4.
  
-### FOMO (Fear Of Missing Out) Popup 
+### FOMO (Fear Of Missing Out) Popups 
 At **FOMO Popup**, you can customize:
  * Sales Notification Popups
  
