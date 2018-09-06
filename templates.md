@@ -145,6 +145,10 @@ Their settings mostly are the same. Let's explore their general settings and par
      * namespace: c_f
      * key: bundle_2
      * value: Add your product handle #2!
+
+### product.v2
+  * Policies: to customize this function, please use blocks named 'Policy'.
+
      
 
 {% common %}
