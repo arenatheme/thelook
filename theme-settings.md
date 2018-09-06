@@ -185,11 +185,11 @@ At **Extensions**, you can customize:
  
 ### FOMO (Fear Of Missing Out) Popup 
 At **FOMO Popup**, you can customize:
- * Sales Pop
+ * Sales Notification Popups
  
  ![](/assets/fomo popup.png)
  
- * Visitor Pop Product Page
+ * Visitor Count Popups
  
  ![](/assets/visitor-pop.png)
  
