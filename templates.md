@@ -149,6 +149,12 @@ Their settings mostly are the same. Let's explore their general settings and par
 ### product.v2
   * Policies: to customize this function, please use blocks named 'Policy'.
 
+{% sample lang="Collection Templates" %}
+
+There are 3 collection templates:
+ * product
+ * product.bundle
+ * product.full
      
 
 {% common %}
