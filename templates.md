@@ -20,7 +20,7 @@ They use static sections for configuration so depending on which template you ch
 
 Their settings mostly are the same. Let's explore their general settings and particular ones
 
-### General Settings
+## General Settings
  * Layout: **Full width** or **Boxed**. If **Full width**, your product page will set its width based on Site Width Mode at [Theme settings](theme-settings.md) > **Color & Styles**  
  
  (**NOTE:** **_product.full_** does not have this option)
@@ -110,6 +110,42 @@ Their settings mostly are the same. Let's explore their general settings and par
  * Related Product: show a product slider on product page for products related to the main product.
  
  ![](/assets/related-product.png)
+
+## Particular Settings For Each Product Templates
+ 
+ ### product
+  * Thumbnail Images Position: 3 position
+   - Bottom:
+   
+   ![](/assets/thumbnail_bottom.png)
+   
+   - Left:
+   
+   ![](/assets/thumbnail_left.png)
+   
+   - Right:
+   
+   ![](/assets/thumbnail_right.png)
+   
+  * Sidebar 
+  
+### product.bundle
+  * This template allows user to add 2 more products besides the main one, so customers to the site can choose to buy only 1 main product or with 1 or both additional products.
+  
+  ![](/assets/product-bundle.png)
+  
+  * In order to add 2 additional to this product, please use 2 metafields:
+  
+   - Product Bundle 1 Meta Field:
+     * namespace: c_f
+     * key: bundle_1
+     * value: Add your product handle #1!
+     
+   - Product Bundle 2 Meta Field:
+     * namespace: c_f
+     * key: bundle_2
+     * value: Add your product handle #2!
+     
 
 {% common %}
 
