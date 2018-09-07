@@ -174,9 +174,9 @@ In order to select a template for your collection, at the very bottom of the mos
   
 ### collection.infinite
 
-Basically, this template's settings are all the same to **collection **template. The differne 
+Basically, this template's settings are all the same to **collection **template, except it won't show all products and only display some of them when you scroll to collection's bottom (keep scrolling and it will continue to show up products until no products left to show).
 
-
+![](/assets/col-infinite.png)
           
 
 {% common %}
