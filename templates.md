@@ -6,7 +6,7 @@ In your theme customize window, you can select page to config at:
 
 Most pages are supposed to have respective static sections for configuration, so always remember to check **Sections**.
 
-The following will only mention pages that have static to set up.
+The following will only mention pages that have static sections.
 
 {% sample lang="Product Templates" %}
 
@@ -217,15 +217,17 @@ You need to create page in order to use page templates.
 
 There are 4 special page templates:
  * page.about
- * page.brands
  * page.contact
  * page.lookbook
  
 (Other template, **page**, is Shopify's default template) 
 
 ### page.about
+In **page.about** static section, you can customize **Testimonial**, **Logo List**, **Our Team** and **Banner & Text**.
+Please use **Content** to input respective data.
 
-
+ ### page.contact
+ ### page.lookbook
 
 
 {% common %}
