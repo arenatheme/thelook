@@ -40,6 +40,12 @@ There are 2 ways to install our theme package as demo website: Manual & Install 
 If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 
 3. you’ll see the following items inside:
+
+ * documentation: theme manual folder
+ * theme-package: contains the theme's installation files
+ * file-upload: contains file with links to images, video is used in our demo.
+ * pre-setting: contains the sample data file settings-data.json as our demo. In the case of many styles (child-theme), the directory will contain the records according to the styles that you can install.
+
 ![](/assets/pizzaro-file-unzip.png)
 
 4. Go to your Shopify admin dashboard and navigate to **Online Store &gt; Themes.**
