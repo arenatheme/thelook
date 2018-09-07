@@ -2,10 +2,10 @@
 
 ## Installation Theme Package
 
-There are 2 ways to install our theme package as demo website: Manual & Arena Oneclick Install Application
+There are 2 ways to install our theme package as demo website: Manual & Install ArenaTheme Shopify App.
 
-{% sample lang="Arena Oneclick Install App" %}
-
+{% sample lang="Install ArenaTheme Shopify App" %}
+### 1. Install ArenaTheme Shopify App
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 2. Enter Your Store URL  
    ![](/assets/insert your url.png)
@@ -31,9 +31,9 @@ There are 2 ways to install our theme package as demo website: Manual & Arena On
    > 3. Don't close browser during installation.
 
 
-{% sample lang="Manual" %}
-
-* If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-fashion-labelle-shopify-them.zip.
+{% sample lang="Manual Installation" %}
+### 2. Manual Installation
+* If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-helen-xxx.zip.
 * **Please extract the zip file you downloaded from ThemeForest, then go to "upload" folder and upload any zip file there**
 ![](/assets/file-download.png)
 
@@ -48,13 +48,10 @@ If you dont know how to do that you can [refer to this link](https://arenathemes
 
 * At this point, it is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
 
-
-
 {% common %}
 
 In Shopify, you can edit your site via **Sections **and **Theme settings**. Next, let's explore how to configure our theme with built-in **Sections** and **Theme settings**
 (_New to Shopify? Please refer to [this](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings) to get knowledge of what **Sections **and **Theme settings** are_)
-
 
 
 {% endmethod %}
