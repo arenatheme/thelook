@@ -207,6 +207,24 @@ This is a default Shopify page. At its static section, you can choose to display
 ### Blog Posts
 ### 404 Page
 
+{% sample lang="Page Templates" %}
+
+You need to create page in order to use page templates.
+
+![](/assets/how to create page-1.png)
+
+![](/assets/how to create page-2.png)
+
+There are 4 special page templates:
+ * page.about
+ * page.brands
+ * page.contact
+ * page.lookbook
+ 
+(Other template, **page**, is Shopify's default template) 
+
+### page.about
+
 
 
 
