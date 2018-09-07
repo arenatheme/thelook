@@ -85,7 +85,7 @@ Banner category has 5 sections:
   
   ![](/assets/sec_adv_settings.png)
 
-  - You can choose either Style #1 or Style #2, but please note that if you choose Style #2, you need to use blocks to add additional images
+  - You can choose either Style #1 or Style #2, but please note that if you choose Style #2, you need to use **Content** to add additional images
    
    * Demo 1 (Style #1):
    
@@ -104,7 +104,7 @@ Banner category has 5 sections:
 
  - This section allows you to add images as type 'Row' or 'Carousel'.
  
- - To add images, please use blocks.
+ - To add images, please use **Content**.
  
  - You can also add text box, which has 2 styles, for additional info to your images.
  
