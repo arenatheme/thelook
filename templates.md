@@ -1,5 +1,13 @@
 {% method %}
 
+In your theme customize window, you can select page to config at:
+
+![](/assets/how to choose page.png)
+
+Most pages are supposed to have respective static sections for configuration, so always remember to check **Sections**.
+
+The following will only mention pages that have static to set up.
+
 {% sample lang="Product Templates" %}
 
 There are 6 product templates:
@@ -99,11 +107,11 @@ Their settings mostly are the same. Let's explore their general settings and par
     
     ![](/assets/sale-meta.png)
   
- * Product tabs: Product tabs will use blocks for data.
+ * Product tabs: Product tabs will use **Content** for data.
  
  ![](/assets/product-tabs.png)  
  
- If you use block type 'Description', in order to use multi-tabs with heading 5 tag, please refer to [this](https://arenathemes.freshdesk.com/solution/articles/6000177903-product-multi-tab-description-tab-missing-problem-arenathemes)
+ If you use Content type '**Description**', in order to use multi-tabs with heading 5 tag, please refer to [this](https://arenathemes.freshdesk.com/solution/articles/6000177903-product-multi-tab-description-tab-missing-problem-arenathemes)
  
  (**NOTE:** **_product.stick-description-2_** does not have option for _Product tab alignment_)            
 
@@ -147,7 +155,7 @@ Their settings mostly are the same. Let's explore their general settings and par
      * value: Add your product handle #2!
 
 ### product.v2
-  * Policies: to customize this function, please use blocks named 'Policy'.
+  * Policies: to customize this function, please use Content's type named 'Policy'.
 
 
 
@@ -191,13 +199,14 @@ Display as many products as you would like and your customers can select many of
       
                                   
                     
-{% sample lang="Collection List Page" %}
-
+{% sample lang="Other Templates/Pages" %}
+### Collection List
 This is a default Shopify page. At its static section, you can choose to display all collections or selected ones.  
 
+### Blogs
+### Blog Posts
+### 404 Page
 
-
-{% sample lang="Collection List Page" %}
 
 
 
