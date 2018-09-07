@@ -1,9 +1,9 @@
 {% method %}
 
-{% sample lang="Static sections" %}
-
 Sections let you empower merchants by giving them greater flexibility when customizing their online store ([source](https://www.shopify.com/partners/blog/introducing-sections-for-shopify-themes)). 
-There are two types of Sections: Static and Dynamic .
+There are two types of Sections: Static and Dynamic.
+
+{% sample lang="Static sections" %}
 
 ### **Static sections:** 
         
