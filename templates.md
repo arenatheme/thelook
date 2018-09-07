@@ -149,6 +149,8 @@ Their settings mostly are the same. Let's explore their general settings and par
 ### product.v2
   * Policies: to customize this function, please use blocks named 'Policy'.
 
+
+
 {% sample lang="Collection Templates" %}
 
 There are 3 collection templates:
@@ -159,6 +161,9 @@ There are 3 collection templates:
 In order to select a template for your collection, at the very bottom of the most right column of your collection admin window, please find section '**Theme templates**'
 
 ![](/assets/col-templates.png)
+
+They use static sections for configuration so depending on which template you choose, there will be a corresponding static section.
+
 
 ### collection
 
@@ -177,7 +182,24 @@ In order to select a template for your collection, at the very bottom of the mos
 Basically, this template's settings are all the same to **collection **template, except it won't show all products and only display some of them when you scroll to collection's bottom (keep scrolling and it will continue to show up products until no products left to show).
 
 ![](/assets/col-infinite.png)
-          
+
+### collection.order-form
+Display as many products as you would like and your customers can select many of them to buy at once.
+
+![](/assets/col-order-form.png)
+                    
+      
+                                  
+                    
+{% sample lang="Collection List Page" %}
+
+This is a default Shopify page. At its static section, you can choose to display all collections or selected ones.  
+
+
+
+{% sample lang="Collection List Page" %}
+
+
 
 {% common %}
 
