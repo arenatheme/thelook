@@ -12,7 +12,8 @@
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
 * [Mega Navigation](mega-navigation.md)
-* [Product ](templates.md)
+* [Products](templates.md)
+  * Bundle Product Template
 
 ## Extension
 
