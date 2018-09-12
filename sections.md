@@ -34,7 +34,7 @@ General sections are sections which appear all pages in the theme.
 
  - Settings:
  
- ![](/assets/sec-footer.png
+ ![](/assets/sec-footer.png)
 
  - There are 3 styles:
  
