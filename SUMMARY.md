@@ -1,8 +1,9 @@
 # Summary
 
-## Installation
+## Getting started
 
-* [Theme Package](README.md)
+* [Theme Installation](README.md)
+* [Supported Apps](app.md)
 
 ## Customization
 
@@ -10,5 +11,4 @@
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
 * [Templates](templates.md)
-* [Supported Apps](app.md)
 

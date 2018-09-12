@@ -33,7 +33,6 @@ There are 2 ways to install our theme package as demo website: Manual & Install 
    >
    > 3. Don't close browser during installation.
 
-
 {% sample lang="Manual Installation" %}
 ### Manual Installation
 1. If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-helen-xxx.zip.
