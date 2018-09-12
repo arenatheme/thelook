@@ -41,9 +41,9 @@ General sections are sections which appear all pages in the theme.
  ![](/assets/sec-footer-style.png)
 
 
-**1.2. Home page**
+**2. Home page**
 
-At home page, there is a static section which is also Slideshow. However, this slideshow only appears when header's current style is 1.
+At home page, there is a static section which is also Slideshow. However, this slideshow only appears when Left column section is Full Slideshow.
 
  - Settings:
  
@@ -58,16 +58,17 @@ At home page, there is a static section which is also Slideshow. However, this s
 {% sample lang="Dynamic sections" %}
 
 ### **Dynamic sections:** 
+
 Simply, dynamic sections are sections which can be moved around and
 only used at Homepage. With dynamic sections, you can create your own Homepage style.
 
-**Helen theme** supports 13 dynamic sections, which can be accessed via:
+**Electro theme** supports many dynamic sections, which can be accessed via:
 
-![](/assets/add_section.png)  
+![](/assets/add_section.png)
         
 These 13 sections are assigned to corresponding categories.
 
-This document will walk you through these 13 sections on what their purposes are and how to set up, configure them.
+This document will walk you through all sections on what their purposes are and how to set up, configure them.
 
 **1.1. BANNER CATEGORY**
 
