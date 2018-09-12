@@ -9,7 +9,7 @@ There are two types of Sections: Static and Dynamic.
         
 Static sections are sections which will be added statically to specific parts or pages of the theme. Static sections basically have all the functions like dynamic ones, except they can not be moved.
         
-If a section is separated from others via top and bottom spaces, it is static. 
+If a section is separated from others via top and bottom spaces, it is static. For example: Header, Bottom, Footer.
         
 ![](/assets/static_section.png)
 
