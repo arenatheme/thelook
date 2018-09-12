@@ -1,16 +1,26 @@
 {% method %}
 ## Getting started with Electro 4.0
 
+
+###New to Shopify?
+
+
+If you're setting up a Shopify store for the first time, we recommend taking a gander at the Shopify [Help Center](https://help.shopify.com/)for a full overview of the platform.  
+
+**ArenaTheme Frequently asked questions:**[https://arenathemes.freshdesk.com/solution/folders/6000229740](https://arenathemes.freshdesk.com/solution/folders/6000229740)
+
 If you have any questions that are beyond the scope of this help file, please feel free to send us a message to <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
-Below you will find some basics on installing, configuring and customizing the template.
-
-If you are satisfied with our themes, please rate us 5 stars via Download tab on Themeforest [https://themeforest.net/downloads](https://themeforest.net/downloads)
+If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Download Tab](https://themeforest.net/downloads)
 
 It encourages us to continue the research to optimize our products and services.
 
-{% endmethod %}
+
 
 **THANK YOU FOR PURCHASING OUR THEME !**
 
+
 **_Arena STC_**
+
+{% endmethod %}
+
