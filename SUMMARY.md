@@ -1,10 +1,14 @@
 # Summary
 
+## Summary
+
+* [Support](summary/support.md)
+
 ## Getting started
 
-* [Electro Shopify Theme User Guide](electro-shopify-theme-user-guide.md)
+* [Theme Requirement](electro-shopify-theme-user-guide.md)
 * [Theme Installation](README.md)
-* [Supported Apps](app.md)
+* [Supported Apps & Compatible](app.md)
 
 ## Customization
 
@@ -12,4 +16,6 @@
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
 * [Templates](templates.md)
+
+## Extensions
 
