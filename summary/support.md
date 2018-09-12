@@ -1,6 +1,7 @@
 {% method %}
 ## Installation Theme Package
-THANK YOU FOR PURCHASING OUR THEME !
+
+    THANK YOU FOR PURCHASING OUR THEME !
 
 If you have any questions that are beyond the scope of this help file, please feel free to send us a message : <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
