@@ -1,5 +1,5 @@
 {% method %}
-## Documentation for Electro Shopify Theme
+## Getting started with Electro 4.0
 
 If you have any questions that are beyond the scope of this help file, please feel free to send us a message : <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
