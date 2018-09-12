@@ -11,7 +11,7 @@ If you are satisfied with our themes, please rate us 5 stars via Download tab on
 
 
 
-It encourages us to continue the research to optimize our products and services
+It encourages us to continue the research to optimize our products and services.
 
 {% endmethod %}
 
