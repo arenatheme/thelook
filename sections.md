@@ -15,7 +15,7 @@ If a section is separated from others via top and bottom spaces, it is static. F
 
 Let's explore static sections used in this theme.
 
-**1.1. General sections**
+**1. General sections**
 
 General sections are sections which appear all pages in the theme.
 
@@ -24,26 +24,22 @@ General sections are sections which appear all pages in the theme.
  - Settings:
  
  ![](/assets/sec-header.png)
+ 
+ - There are 7 styles:
+ 
+ ![](/assets/sec-header-style.png)
+
 
 * **Footer:**
 
  - Settings:
  
- ![](/assets/sec-footer.png)
+ ![](/assets/sec-footer.png
 
  - There are 3 styles:
  
-   * Style #1:
-   
-    ![](/assets/ft-style1.png) 
-    
-   * Style #2:
-   
-    ![](/assets/ft-style2.png) 
-    
-   * Style #3:
-    
-    ![](/assets/ft-style3_03.png)
+ ![](/assets/sec-footer-style.png)
+
 
 **1.2. Home page**
 
