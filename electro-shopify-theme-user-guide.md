@@ -7,7 +7,7 @@ If you have any questions that are beyond the scope of this help file, please fe
 
 Below you will find some basics on installing, configuring and customizing the template.
 
-If you are satisfied with our themes, please rate us 5 stars via Download tab on Themeforest http://themeforest.net/downloads. 
+If you are satisfied with our themes, please rate us 5 stars via Download tab on Themeforest https://themeforest.net/downloads. 
 
 It encourages us to continue the research to optimize our products and services
 
