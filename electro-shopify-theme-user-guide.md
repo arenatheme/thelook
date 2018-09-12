@@ -3,7 +3,7 @@
 ## Installation Theme Package
 THANK YOU FOR PURCHASING OUR THEME !
 
-If you have any questions that are beyond the scope of this help file, please feel free to send us a message : support@arenathemes.com
+If you have any questions that are beyond the scope of this help file, please feel free to send us a message : <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
 Below you will find some basics on installing, configuring and customizing the template.
 
