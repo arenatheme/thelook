@@ -9,9 +9,11 @@ There are 2 ways to install our theme package as demo website: Manual & Install 
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 
 2. Enter Your Store URL  
+   
    ![](/assets/insert your url.png)
 
 3. Login and install our install apps  
+   
    ![](/assets/install.png)
 
 4. Insert your purchase code. If you don't know how to get it [please refer here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ):  
