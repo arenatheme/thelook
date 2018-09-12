@@ -13,5 +13,4 @@ It encourages us to continue the research to optimize our products and services.
 
 **THANK YOU FOR PURCHASING OUR THEME !**
 
-
-**ArenaTheme**
+**_Arena STC_**
