@@ -66,8 +66,6 @@ only used at Homepage. With dynamic sections, you can create your own Homepage s
 
 ![](/assets/add_section.png)
         
-These 13 sections are assigned to corresponding categories.
-
 This document will walk you through all sections on what their purposes are and how to set up, configure them.
 
 **1.1. BANNER CATEGORY**
