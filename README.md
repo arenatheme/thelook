@@ -2,17 +2,22 @@
 
 ## Installation Theme Package
 
-There are 2 ways to install our theme package as demo website: Manual & Install ArenaTheme Shopify App.
+There are 2 ways to install our theme package as demo website
 
-{% sample lang="Install ArenaTheme Shopify App" %}
-### Install ArenaTheme Shopify App
+* Manual: Upload theme package to Shopify Dashboard.
+* Automatic: Instal our Shopify Arena Installaton Application.
+
+{% sample lang="Automatic" %}
+
+### Install Arena Installaton App
+
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 
-2. Enter Your Store URL  
+2. Enter Your Store URL to login & install  
    
    ![](/assets/insert your url.png)
 
-3. Login and install our install apps  
+3. Click Install unlisted app  
    
    ![](/assets/install.png)
 
