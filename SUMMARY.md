@@ -8,7 +8,7 @@
 
 * [Theme Installation](README.md)
 * [Supported Apps & Compatible](app.md)
-* Shopify Metafield
+* [Shopify Metafield](shopify-metafield.md)
 
 ## Customization
 
