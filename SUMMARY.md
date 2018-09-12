@@ -16,8 +16,8 @@
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
 * [Templates](templates.md)
-* Collection
-* Products
+* [Collection](collection.md)
+* [Products](products.md)
 * [Pages](pages.md)
 
 ## Extensions
