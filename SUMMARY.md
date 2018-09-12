@@ -16,6 +16,7 @@
 
 ## Extension
 
+* Fomo Popups
 * Google Translate
 * [Auto Currency by User Location](auto-currency-by-user-location.md)
 * Exit Intent Popup Discount
