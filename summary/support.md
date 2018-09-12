@@ -1,5 +1,5 @@
 {% method %}
-## Installation Theme Package
+## Documentation for Electro Shopify Theme
 
 If you have any questions that are beyond the scope of this help file, please feel free to send us a message : <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
