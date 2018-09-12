@@ -5,6 +5,4 @@ Our theme supports 3 apps:
 * [Product Reviews](https://apps.shopify.com/product-reviews)
 * [Wishlist Compare by Arena](https://apps.arenatheme.com/install)
 
-{% common %}
-
 {% endmethod %}
