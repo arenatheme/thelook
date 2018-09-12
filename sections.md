@@ -53,7 +53,6 @@ At home page, there is a static section which is also Slideshow. However, this s
  ![](/assets/header-1-slideshow-demo.png)
 
 
-
 {% sample lang="Dynamic sections" %}
 
 ### **Dynamic sections:** 
