@@ -1,7 +1,7 @@
 {% method %}
 ## Getting started with Electro 4.0
 
-If you have any questions that are beyond the scope of this help file, please feel free to send us a message : <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
+If you have any questions that are beyond the scope of this help file, please feel free to send us a message to <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
 
 Below you will find some basics on installing, configuring and customizing the template.
 
