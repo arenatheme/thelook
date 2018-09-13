@@ -14,7 +14,6 @@ You can add a theme in **two ways**:
 Your website will have the same interface as our theme demo.
 
 
-
 ### Related topics
 
 * [Install theme by Arena Installation app.](/arena-installation.md)
