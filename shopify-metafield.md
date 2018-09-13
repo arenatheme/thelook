@@ -25,17 +25,25 @@ https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekf
 
     ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
 
-* List of **9 Metafields** Electro support use
+
+* List of **Metafields** Electro support use
 
 ![](/assets/metafield.png)
 
 **Collection Page**
 
+* _**Add SubCollection**_
+
+```
+    - namespace: c_f
+    - key: subcategory
+    - value: Add menu handle item to display subcategory
+```
 
 
 **Product Page**
 
-* _**Add Bundle Product**_
+* _**New: Add Bundle Product**_
 
 ```
     - namespace: c_f
@@ -46,6 +54,19 @@ https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekf
     - key: bundle_2
     - value: Add your product handle #2!
 ```
+
+* _**New: Add Exit Intent Popup Product**_
+
+```
+    - namespace: c_f
+    - key: discount_code
+    - value: Add your Coupon code for the product
+    
+    - namespace: c_f
+    - key: discount_percent
+    - value: Display percent of discount
+```
+
 * _Add Countdount Timer_
 
 ```
