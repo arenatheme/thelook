@@ -1,4 +1,4 @@
-****Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. 
+Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. 
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
 
@@ -25,64 +25,69 @@ https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekf
 
     ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
 
-* There are fie Metafield data that we support.
+* List of **9 Metafields** Electro support use
+
+![](/assets/metafield.png)
 
 **Collection Page**
 
+
+
 **Product Page**
 
-* _Short Description Meta Field_
+* _**Add Bundle Product**_
+
+```
+    - namespace: c_f
+    - key: bundle_1
+    - value: Add your product handle #1!
+    
+    - namespace: c_f
+    - key: bundle_2
+    - value: Add your product handle #2!
+```
+* _Add Countdount Timer_
+
+```
+    - namespace: c_f
+    - key: bundle_1
+    - value: Add your product handle #1!
+    
+    - namespace: c_f
+    - key: bundle_2
+    - value: Add your product handle #2!
+```
+
+
+* _Add Short Description_
     ```
     - namespace: c_f
     - key: description_excerpt
     - value: Add the product short description!
     ```
 
-* _Video Meta Field_
+* _Add Product Image 360 Description_
+
+```
+    - namespace: c_f
+    - key: image360
+    - value: Add your image url!
+    
+```
+
+* _Add Product Video Description_
     ```
     - namespace: c_f
     - key: video_url
     - value: Add your amazing video!
     ```
 
-Size Chart Meta Field:
+* _Add Size Chart_
 
 ```
-- namespace: c_f
-- key: size_chart
-- value: Add your image size chart url!
-```
-
-```
-Image 360 Meta Field:
-
-- namespace: c_f
-- key: image360
-- value: Add your image url!
-
-```
-
-** Bundle Product Meta Field **
-
-```
-- namespace: c_f
-- key: bundle_1
-- value: Add your product handle #1!
-
-- namespace: c_f
-- key: bundle_2
-- value: Add your product handle #2!
-```
-
-
-```
-
-Size Chart Meta Field:
-
-- namespace: c_f
-- key: size_chart
-- value: Add your image size chart URL!
-
+    - namespace: c_f
+    - key: image_size_chart
+    - value: Add your image size chart url!
 ```
 
 
