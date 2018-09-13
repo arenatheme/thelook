@@ -1,4 +1,4 @@
-Shopify does not support input product custom fields in the dashboard, but there are some add-ons for this that you can use to improve product quality. 
+Shopify metafields can help you extend the functionality of online shops by giving you the ability to store additional information on products, collections, orders, blogs, and pages.
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
 
