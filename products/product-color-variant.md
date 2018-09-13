@@ -1,4 +1,6 @@
-## Upload your color images
+## Select Product Variant Option
+
+### Upload your color images
 
 For the color options you have, you can either let the smartness of the script provide a color for you, or you can upload an image that represents that color.
 
@@ -25,6 +27,10 @@ Other example, if your color is 'Blue/Gray', then name your image blue-gray.png.
 6. **Upload your image.**
 
 Repeat steps 5 and 6 until you have uploaded all your images.
+
+
+
+
 
 
 

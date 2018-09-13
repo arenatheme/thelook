@@ -1,42 +1,20 @@
 {% method %}
 
-## Installation Theme Package
+You can add a theme in **two ways**:
 
-There are 2 ways to install our theme package as demo website
+* **Upload theme package** file .zip on your computer to Shopify.
+* Instal our Shopify app **Arena Installaton**.
 
-* Manual: Upload theme package to Shopify Dashboard.
-* Automatic: Instal our Shopify Arena Installaton Application.
+**Arena Installation app** support you to: 
 
-{% sample lang="Automatic" %}
+* Quickly and easily **Installation & Switch** theme in case the theme support multi-style ** without upload file.**
 
-### Install Arena Installaton App
-
-1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
-
-2. Enter Your Store URL to login & install  
-
-   ![](/assets/arena-installation.png)   
-
-3. Click Install unlisted app  
+* Importing our sample data includes **product data**, **metafield** settings, our **prefine setting data **for multi style **setting data** theme style. 
    
-   ![](/assets/install.png)
+Your website will have the same interface as our theme demo.
 
-4. Insert your purchase code. If you don't know how to get it [please refer here](https://arenathemes.freshdesk.com/support/solutions/articles/6000116407-how-to-find-your-themeforest-item-purchase-code ):  
-   ![](/assets/insert purchase code.png)
 
-5. Select Installation Menu  
-  Select Options, Click **Install Theme** and wait to complete
-![](/assets/Installation menu.png)![](/assets/Install Options.png)
-   > PLEASE TAKE CARE YOUR DATA  
-   > 1. Import PRODUCT, BLOG & ARTICLE, COLLECTION, PAGE SAMPLE DATA will require the removal of corresponding data from your store to avoid the conflict. IT WILL DELETE DATA & CANNOT RECOVER.
-   >
-   > Please ensure that you have backed up your data or accepted the deletion of this data.
-   >
-   > 1. To backup Product Data please follow the instruction here [https://help.shopify.com/manual/products/import-export/export-products](https://help.shopify.com/manual/products/import-export/export-products)
-   >
-   > 2. New theme package will Publish
-   >
-   > 3. Don't close browser during installation.
+
 
 {% sample lang="Manual Installation" %}
 ### Manual Installation
