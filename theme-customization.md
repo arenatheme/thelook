@@ -6,4 +6,8 @@ Next, let's explore how to configure our theme with built-in **Sections** and **
 
 ## Sections
 
+Sections let you empower merchants by giving them greater flexibility when customizing their online store ([source](https://www.shopify.com/partners/blog/introducing-sections-for-shopify-themes)). 
+There are two types of Sections: Static and Dynamic.
+
+
 ## Theme Settings
