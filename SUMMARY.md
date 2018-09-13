@@ -8,7 +8,7 @@
 
 * [Theme Installation](README.md)
   * [Arena Installation](arena-installation.md)
-  * Upload File
+  * [Upload File](upload-file.md)
 * [Supported Apps & Compatible](app.md)
 * [Shopify Metafield](shopify-metafield.md)
 
