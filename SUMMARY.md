@@ -11,7 +11,7 @@
   * [Upload File](upload-file.md)
 * [Requirement Apps](app.md)
 * [Shopify Metafield](shopify-metafield.md)
-* [Change Theme Styles](change-theme-styles.md)
+* [Theme Styles](change-theme-styles.md)
 
 ## Customization
 
