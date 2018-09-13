@@ -9,9 +9,9 @@
 * [Theme Installation](README.md)
   * [Arena Installation](arena-installation.md)
   * [Upload File](upload-file.md)
-* [Change Theme Styles](change-theme-styles.md)
 * [Requirement Apps](app.md)
 * [Shopify Metafield](shopify-metafield.md)
+* [Change Theme Styles](change-theme-styles.md)
 
 ## Customization
 
@@ -23,7 +23,7 @@
   * [Product Templates](products/product-templates.md)
   * [Product Variant: Color or Image](products/product-color-variant.md)
   * Product Quantity Selector
-  * Product Multi-Tab Description
+  * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
   * [Product Size Chart](sizechart.md)
 * [Pages](pages.md)
 

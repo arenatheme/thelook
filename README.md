@@ -19,12 +19,7 @@ Your website will have the same interface as our theme demo.
 
 * [Install theme by Arena Installation app.](/arena-installation.md)
 * [Install theme by Upload Theme Package download from ThemeForest. ](/upload-file.md)
-* Change Theme Styles
-* Using Shopify Metafield
-
-
-{% common %}
-
-
-{% endmethod %}
+* [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
+* [Install Requirement Shopfiy Apps](/app.md)
+* [Apply Theme Styles](/change-theme-styles.md)
 

@@ -9,4 +9,4 @@ By default, our theme apply 3 Shopify apps, all is free. You must install to us
 
 ### Compatible Shopify App.
 
-* Orbelo
+* Orbelo https://apps.shopify.com/oberlo
