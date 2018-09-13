@@ -28,12 +28,7 @@ Your website will have the same interface as our theme demo.
 2. **Please extract the zip file you downloaded from ThemeForest.** If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
 ![](/assets/file-download.png)
 
-3. you’ll see the following items inside:
- * documentation: theme manual folder
- * theme-package: contains the theme's installation files
- * file-upload: contains file with links to images, video is used in our demo.
- * pre-setting: contains the sample data file settings-data.json as our demo. In the case of many styles (child-theme), the directory will contain the records according to the styles that you can install.
-![](/assets/pizzaro-file-unzip.png)
+3. you’ll see the 
 
 4. Upload theme file (in theme-package folder) to your Shopify Store. [Refer to this link](https://help.shopify.com/en/manual/using-themes/adding-themes#upload-a-theme-file-from-your-computer)
  * From your Shopify admin, go to  **Online Store &gt; Themes.**
