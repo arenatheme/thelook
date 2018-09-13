@@ -13,6 +13,8 @@ You can add a theme in **two ways**:
    
 Your website will have the same interface as our theme demo.
 
+
+
 ### Related topics
 
 * [Install theme by Arena Installation app.](/arena-installation.md)
@@ -22,26 +24,8 @@ Your website will have the same interface as our theme demo.
 
 
 
-{% sample lang="Manual Installation" %}
-### Manual Installation
-1. If you purchased your theme from [themeforest.net](https://www.themeforest.net/) you'll receive your theme as a .zip file named something like themeforest-xxxxxxxxx-helen-xxx.zip.
-
-2. **Please extract the zip file you downloaded from ThemeForest.** If you dont know how to do that you can [refer to this link](https://arenathemes.freshdesk.com/support/solutions/articles/6000177905-how-to-fix-shopify-theme-upload-error-arenathemes)
-![](/assets/file-download.png)
-
-3. you’ll see the 
-
-4. Upload theme file (in theme-package folder) to your Shopify Store. [Refer to this link](https://help.shopify.com/en/manual/using-themes/adding-themes#upload-a-theme-file-from-your-computer)
- * From your Shopify admin, go to  **Online Store &gt; Themes.**
- * In the **More themes** area, click **Upload theme**.
- * From the **Upload theme** window, click **Choose File** to select the .zip file that you want to upload. The .zip file available at folder **theme-package**
- * Click **Upload**. The theme will be added to the Themes page of your admin
-
 
 {% common %}
-
-In Shopify, you can edit your site via **Sections **and **Theme settings**. Next, let's explore how to configure our theme with built-in **Sections** and **Theme settings**
-(_New to Shopify? Please refer to [this](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings) to get knowledge of what **Sections **and **Theme settings** are_)
 
 
 {% endmethod %}
