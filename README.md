@@ -17,7 +17,8 @@ Your website will have the same interface as our theme demo.
 
 * [Install theme by Arena Installation app.](/arena-installation.md)
 * Install theme by Upload Theme Package download from ThemeForest. 
-
+* Install **Requirement Shopify Apps**.
+* Using Shopify Metafield 
 
 
 
@@ -35,7 +36,7 @@ Your website will have the same interface as our theme demo.
  * In the **More themes** area, click **Upload theme**.
  * From the **Upload theme** window, click **Choose File** to select the .zip file that you want to upload. The .zip file available at folder **theme-package**
  * Click **Upload**. The theme will be added to the Themes page of your admin
-5. Your new theme will show up below your current theme. It is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
+
 
 {% common %}
 

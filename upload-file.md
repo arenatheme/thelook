@@ -14,3 +14,7 @@ Following items inside:
 
 4. From the **Upload theme** window, click **Choose File** to select **the .zip file** that you want to upload.
 
+5. Your new theme will show up below your current theme. It is installed, but not published. When you're ready to unveil your new look to the world, click **Publish theme**.
+
+
+
