@@ -17,7 +17,8 @@
   * [Theme settings](theme-settings.md)
 * [Templates](templates.md)
 * [Collection](collection.md)
-* [Products](products.md)
+* [Products Pages](products.md)
+  * [Product Color Variant](products/product-color-variant.md)
 * [Pages](pages.md)
 
 ## Extensions

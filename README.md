@@ -14,8 +14,8 @@ There are 2 ways to install our theme package as demo website
 1. Go to [https://install.arenathemes.com](https://install.arenathemes.com/admin/install)
 
 2. Enter Your Store URL to login & install  
-   
-   ![](/assets/insert your url.png)
+
+   ![](/assets/arena-installation.png)   
 
 3. Click Install unlisted app  
    
