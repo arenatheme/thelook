@@ -9,7 +9,8 @@
 * [Theme Installation](README.md)
   * [Arena Installation](arena-installation.md)
   * [Upload File](upload-file.md)
-* [Supported Apps & Compatible](app.md)
+* [Change Theme Styles](change-theme-styles.md)
+* [Requirement Apps](app.md)
 * [Shopify Metafield](shopify-metafield.md)
 
 ## Customization
