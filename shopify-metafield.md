@@ -1,12 +1,10 @@
 ## Adding Requirement Shopify Metafield to your store.
 
-Shopify metafields can help you extend the functionality of online shops by giving you the ability to store additional information on products, collections, orders, blogs, and pages.
+You can use metafields to add custom fields to objects such as products, customers, and orders. Metafields are useful for storing specialized information, such as part numbers, customer titles, or blog post summaries. 
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
 
-* One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln).
-
-* Please refer to [the user manual](https://freakdesign-us.s3.amazonaws.com/shopify/custom_fields/freakdesign-custom-fields-for-shopify-guide.pdf)
+More detail https://help.shopify.com/en/manual/products/metafields
 
 ---
 
@@ -112,8 +110,17 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
 **Using Custom field to add content with Metafield**
 
 1. Download & Install [**Custom Fields for Shopify** **Chrome Extension**](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln?hl=en-GB)
+  
+  This extension will help Shopify store owners edit content easier by using Custom Fields.
 
-This extension will help Shopify store owners edit content easier by using Custom Fields.
+2. Go to objects such as **products**, **collection** you would like to add custom field. 
+![](/assets/collection-noncustom.png)
+3. Click icon Load Custom Field at the top right you browser. 
+![](/assets/add load customfield.png)
+4. Now Custom field will ready for you to add content
+
+![](/assets/custom-field.png)
+
 
 
 
