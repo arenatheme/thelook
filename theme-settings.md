@@ -130,7 +130,7 @@ The following instruction will teach you how to set up a horizontal or vertical 
 
 * Each column has 4 usable styles with their corresponding settings as well as other general settings:
 
-  * Menu Item: used for single level menu
+  * **Menu Item: used for single level menu**
 
     * Demo settings:
 
@@ -140,7 +140,7 @@ The following instruction will teach you how to set up a horizontal or vertical 
 
     ![](/assets/menu-item.png)
 
-  * Multiple Menu Item: used for nested menu \(only for 2 levels\)
+  * **Multiple Menu Item: used for nested menu \(only for 2 levels\)**
 
     * Demo settings:
 
@@ -150,11 +150,11 @@ The following instruction will teach you how to set up a horizontal or vertical 
 
     ![](/assets/multiple-menu.png)
 
-  * Product Item
+  * **Product Item**
 
   ![](/assets/product-item.png)
 
-  * Image
+  * **Image**
 
   ![](/assets/image-type.png)
 
