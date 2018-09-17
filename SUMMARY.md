@@ -23,6 +23,7 @@
   * [Product Color or Image Variants](products/product-color-variant.md)
   * [Product Size Variant](products/product-quantity-selector.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
+  * [Bundle Product Page](products/bundle-product-page.md)
   * [Product Size Chart](sizechart.md)
   * [Short Description](products/countdown-product.md)
   * [Countdown Timer](products/count-down-product.md)
