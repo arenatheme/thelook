@@ -4,11 +4,11 @@ Shopify metafields can help you extend the functionality of online shops by givi
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
 
-
 * One of the extensions you can refer to is the Custom Field Chrome extension made by Jason at [https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln). 
 
 * Please refer to [the user manual](https://freakdesign-us.s3.amazonaws.com/shopify/custom_fields/freakdesign-custom-fields-for-shopify-guide.pdf)
 
+### Setup Steps
 
 1. Currently, **custom field extensions** only support **Chrome browser** so to use you must install this browser. [Download and install here](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
