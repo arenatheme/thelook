@@ -12,6 +12,7 @@
 * [Requirement Apps](app.md)
 * [Shopify Metafield](shopify-metafield.md)
 * [Theme Styles](change-theme-styles.md)
+* [Theme Updated](theme-updated.md)
 
 ## Customization
 
