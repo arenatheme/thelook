@@ -18,5 +18,21 @@ From your Shopify admin, go to **Online Store**&gt;**Pages**.
 
 5. Optional: To make a published webpage appear in your online store navigation, add a link to it in a menu.
 
+### Select a template for page.
+
+Electro support 3 page templates:
+
+* Page default - page
+* Page about us - page.about
+* Page contact - page.contact
+* Page porfolio - page.porfolio
+
+When you install Wishlist & Compare by Arena app, it's will sync two more page templates for Wishlist & Compare function
+
+* Page Wishlist - page.bc\_wishlist
+* Page Compare - page.bc\_compare
+
+### 
+
 
 

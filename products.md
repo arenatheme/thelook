@@ -4,7 +4,7 @@ The product page showcases a product and its variants, and includes product imag
 
 For more detail about product page you may visit [https://help.shopify.com/en/manual/products/understanding-products](https://help.shopify.com/en/manual/products/understanding-products)
 
-Beside Product Detail Template, Electro support 3 more alternate templates:
+Beside Product template default, Electro support 3 more alternate templates:
 
 * Product
 * Product Extended: Adjust layout with extended add to cart block and full wide without sidebar layout.
@@ -20,10 +20,6 @@ A **Theme templates **section will be visible **when you click to view, create, 
 ### ![](/assets/producttemplates.png)
 
 ### Customize product template with sections
-
-
-
-
 
 ### Related topics
 
