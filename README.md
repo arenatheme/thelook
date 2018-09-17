@@ -1,5 +1,3 @@
-{% method %}
-
 You can add a theme in **two ways**:
 
 * **Upload theme package** file .zip on your computer to Shopify.

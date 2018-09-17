@@ -1,6 +1,4 @@
-{% method %}
 ## Getting started with Electro 4.0
-
 
 ###New to Shopify?
 
