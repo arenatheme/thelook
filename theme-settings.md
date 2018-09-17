@@ -4,10 +4,15 @@ Think of theme settings like backbone of a theme.
 
 At **Typography**, you can customize:
 
-* Favicon.
-* Loading icon.
 * Web fonts.
 * Font size \(in px\).
+
+### Icon
+
+At Icons, you can customize icons display:
+
+* Favicon.
+* Loading icon
 * Header icons: Account icon, search icon, wishlist icon, compare icon and cart icon
 
 ### Colors & Style
@@ -17,10 +22,19 @@ At **Colors & Style**, you can customize:
 * Site Width Mode.
 * Background body page.
 * Breadcrumb.
+* Header color
 * Body color.
 * Navigation color.
 * Footer color.
-* Button 01 & 02.
+* Buttons color.
+
+### Settings Extended
+
+At Settings Extended you can customize extended function that use for theme:
+
+* Extended function: Sticky navigation, quickview, back to top...
+* Homepage: Add Left Column Section
+* Collection page: Select view mobile default, EU Cookie Policy
 
 ### Cart Page
 

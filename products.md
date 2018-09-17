@@ -13,11 +13,17 @@ Beside Product Detail Template, Electro support 3 more alternate templates:
 
 ![](/assets/product templates.png)
 
-### Assign product template in the admin
+### Assign product template
 
 A **Theme templates **section will be visible **when you click to view, create, or edit a product**. You can assign the template that you want to use for each product from the **Template suffix **list.
 
 ### ![](/assets/producttemplates.png)
+
+### Customize product template with sections
+
+
+
+
 
 ### Related topics
 
