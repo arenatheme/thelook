@@ -1,10 +1,10 @@
 ## Adding Requirement Shopify Metafield to your store.
 
-You can use metafields to add custom fields to objects such as products, customers, and orders. Metafields are useful for storing specialized information, such as part numbers, customer titles, or blog post summaries. 
+You can use metafields to add custom fields to objects such as products, customers, and orders. Metafields are useful for storing specialized information, such as part numbers, customer titles, or blog post summaries.
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
 
-More detail https://help.shopify.com/en/manual/products/metafields
+More detail [https://help.shopify.com/en/manual/products/metafields](https://help.shopify.com/en/manual/products/metafields)
 
 ---
 
@@ -97,6 +97,7 @@ More detail https://help.shopify.com/en/manual/products/metafields
     - value: Add your amazing video!
   ```
 * _Add Size Chart_
+
   ```
     - namespace: c_f
     - key: image_size_chart
@@ -107,22 +108,31 @@ More detail https://help.shopify.com/en/manual/products/metafields
 
 ---
 
-**Using Custom field to add content with Metafield**
+### Using** Custom field to add content Shopify Metafield**
 
 1. Download & Install [**Custom Fields for Shopify** **Chrome Extension**](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln?hl=en-GB)
-  
-  This extension will help Shopify store owners edit content easier by using Custom Fields.
 
-2. Go to objects such as **products**, **collection** you would like to add custom field. 
-![](/assets/collection-noncustom.png)
-3. Click icon Load Custom Field at the top right you browser. 
-![](/assets/add load customfield.png)
+   This extension will help Shopify store owners edit content easier by using Custom Fields.
+
+2. Go to objects such as **products**, **collection** you would like to add custom field.  
+   ![](/assets/collection-noncustom.png)
+
+3. Click icon Load Custom Field at the top right you browser.   
+   ![](/assets/add load customfield.png)
+
 4. Now Custom field will ready for you to add content
 
-![](/assets/custom-field.png)
+![](/assets/custom-field.png)** **
 
+---
 
+### Bulk editing product metafield
 
+As we’ve seen, metafields have three components: **a namespace, a key, and a value**. Once you know the namespace and key for your metafield, you can display it in [the bulk editor](https://help.shopify.com/en/manual/productivity-tools/bulk-editing-products) by making small changes to the URL of the bulk editing page in the Shopify Admin.
+
+Eg.
+
+For Collection page: https://electro-demo.myshopify.com/admin/bulk?resource\_name=Collection&
 
 
 
