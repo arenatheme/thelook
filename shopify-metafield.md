@@ -8,31 +8,29 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
 
 * Please refer to [the user manual](https://freakdesign-us.s3.amazonaws.com/shopify/custom_fields/freakdesign-custom-fields-for-shopify-guide.pdf)
 
-### Add requirement Custom Field for Electro
+---
+
+### Adding supported Meta field for Electro Theme
 
 1. Currently, **custom field extensions** only support **Chrome browser** so to use you must install this browser. [Download and install here](https://www.google.com/intl/en/chrome/browser/desktop/index.html)
 
 2. Download & Install [**ShopifyFD Dashboard Tool Chrome Extension**](https://chrome.google.com/webstore/detail/shopifyfd-dashboard-tool/lffljkleilfpjlmcdnoaghhcbnemelge?hl=en)
 
-3. Download & Install [**Custom Fields for Shopify** **Chrome Extension**](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln?hl=en-GB)
-
-4. Add **New meta field** on the shop.
+3. Add **New meta field** on the shop.
 
    * From your Shopify admin, go to **Settings &gt; General**
    * Click ** ShopifyFD Dashboard Icon** at Top Bar Chrome Browser.
      The Store Metafield will showup.
      ![](/assets/ShopifyFD.png)
    * **Add New Metafield** & **click Save**
-
      ![](https://media.giphy.com/media/xT9IgsIcmG9yPuYXXG/giphy.gif).
 
-5. List of **Metafields** Electro support use
-
-![](/assets/metafield.png)
+4. List of **Meta field** Electro support use  
+   ![](/assets/metafield.png)
 
 **Collection Page**
 
-* _**Add SubCollection**_
+* _**New: Add Sub-collection**_
 
 ```
     - namespace: c_f
@@ -44,7 +42,7 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
 
 * _**New: Add Bundle Product**_
 
-```
+  ```
     - namespace: c_f
     - key: bundle_1
     - value: Add your product handle #1!
@@ -52,11 +50,11 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
     - namespace: c_f
     - key: bundle_2
     - value: Add your product handle #2!
-```
+  ```
 
 * _**New: Add Exit Intent Popup Product**_
 
-```
+  ```
     - namespace: c_f
     - key: discount_code
     - value: Add your Coupon code for the product
@@ -64,11 +62,11 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
     - namespace: c_f
     - key: discount_percent
     - value: Display percent of discount
-```
+  ```
 
 * _Add Countdount Timer_
 
-```
+  ```
     - namespace: c_f
     - key: bundle_1
     - value: Add your product handle #1!
@@ -76,7 +74,7 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
     - namespace: c_f
     - key: bundle_2
     - value: Add your product handle #2!
-```
+  ```
 
 * _Add Short Description_
 
@@ -95,20 +93,29 @@ Eg. Add a short description, video embedded, 3D product embed... for each produc
 ```
 
 * _Add Product Video Description_
-
   ```
     - namespace: c_f
     - key: video_url
     - value: Add your amazing video!
   ```
-
 * _Add Size Chart_
-
-```
+  ```
     - namespace: c_f
     - key: image_size_chart
     - value: Add your image size chart url!
-```
+  ```
 
-6. 
+  **It's ready to use to add Custom Field for the Theme**
+
+---
+
+**Using Custom field to add content with Metafield**
+
+1. Download & Install [**Custom Fields for Shopify** **Chrome Extension**](https://chrome.google.com/webstore/detail/custom-fields-for-shopify/alfplfpobekffinigeidgmmfjollghln?hl=en-GB)
+
+This extension will help Shopify store owners edit content easier by using Custom Fields.
+
+
+
+
 
