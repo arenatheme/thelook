@@ -25,6 +25,8 @@
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)
   * [Product Size Chart](sizechart.md)
 * [Pages](pages.md)
+  * [Wishlist](pages/wishlist.md)
+  * Compare
 * Blogs
 
 ## Extensions
