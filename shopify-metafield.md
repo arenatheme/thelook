@@ -130,17 +130,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 As we’ve seen, metafields have three components: **a namespace, a key, and a value**. Once you know the namespace and key for your metafield, you can display it in [the bulk editor](https://help.shopify.com/en/manual/productivity-tools/bulk-editing-products) by making small changes to the URL of the bulk editing page in the Shopify Admin.
 
-Eg.
-
-For Collection page: [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=c_f.subcategory:string)
+Eg. Collection page: [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=c_f.subcategory:string)
 
 In this URL, **c\_f** is the **metafield’s namespace** and **subcategory** is its key. You can replace these with values to match your use case. The **string** part of the URL tells Shopify about the type of data that we want to store in the metafield. The bulk editor is able to display **five types of metafields** – **string, money, boolean, select and number.**
-
-
-
-
-
-
-
-
 
