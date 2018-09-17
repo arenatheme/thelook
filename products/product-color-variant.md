@@ -27,5 +27,8 @@ Other example, if your color is 'Blue/Gray', then name your image blue-gray.png.
 
 Repeat steps 5 and 6 until you have uploaded all your images.
 
+### Select Product Color or Images Variant.
+
+
 
 
