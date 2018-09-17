@@ -1,3 +1,5 @@
+## Adding Requirement Shopify Metafield to your store.
+
 Shopify metafields can help you extend the functionality of online shops by giving you the ability to store additional information on products, collections, orders, blogs, and pages.
 
 Eg. Add a short description, video embedded, 3D product embed... for each product page. Add Sub collection for Collection page.
