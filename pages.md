@@ -12,15 +12,17 @@ From your Shopify admin, go to **Online Store**&gt;**Pages**.
 
    Be descriptive and clear when choosing your webpage title. The webpage title is displayed in the tab or title bar of browsers. It is also used as the title in search engine results.[Learn more about websiteSEO.](https://help.shopify.com/en/manual/promoting-marketing/seo)
 
-3. In the **Visibility **field, you can choose whether you want your webpage to be published or not. By default, your new webpage will be visible when you click **Save**. Select the **Hidden **option if you want your new webpage to be hidden from your online store, or click**Set a specific publish date **to [control when your webpage is published](https://help.shopify.com/en/manual/productivity-tools/future-publishing):
+3. In the **Visibility **field, you can choose whether you want your webpage to be published or not. By default, your new webpage will be visible when you click **Save**. Select the **Hidden **option if you want your new webpage to be hidden from your online store, or click **Set a specific publish date **to [control when your webpage is published](https://help.shopify.com/en/manual/productivity-tools/future-publishing):
 
-4. Click **Save**
+4. In the **Template** field, you can choose page template \(page type\) that you would like to apply.
 
-5. Optional: To make a published webpage appear in your online store navigation, add a link to it in a menu.
+5. Click **Save**
 
-### Select a template for page.
+6. Optional: To make a published webpage appear in your online store navigation, add a link to it in a menu.
 
-Electro support 3 page templates:
+### Electro support 6 page templates \(page type\).
+
+You have to add page and select template field to show pages as our demo. It's include
 
 * Page default - page
 * Page about us - page.about
@@ -32,9 +34,15 @@ When you install Wishlist & Compare by Arena app, it's will sync two more page t
 * Page Wishlist - page.bc\_wishlist
 * Page Compare - page.bc\_compare
 
+### Customize Page template Sections
 
+In order to customize layout for pages
 
-### 
+From your Shopify
 
+1. Find the theme that you want to edit and click **Customize**.
 
+2. **From the top bar drop-down menu, select the type of page that you want to edit.**
+
+It's will show the sections for each page.![](/assets/page.png)
 
