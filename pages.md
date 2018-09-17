@@ -44,5 +44,5 @@ From your Shopify
 
 2. **From the top bar drop-down menu, select the type of page that you want to edit.**
 
-It's will show the sections for each page.![](/assets/page.png)
+It's will show the sections for each page.![](/assets/page.png)3. **Change your Section setting** and click **Save** 
 
