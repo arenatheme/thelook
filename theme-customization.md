@@ -2,11 +2,12 @@
 
 Before you customize your theme, it's a good idea to do the following tasks:
 
-* [Duplicate your theme](https://help.shopify.com/en/manual/using-themes/managing-themes/duplicating-themes)
+* [Duplicate your theme](https://help.shopify.com/en/manual/using-themes/managing-themes/duplicating-themes)  
   to create a backup copy. This makes it easy to discard your changes and start again if you need to.
 
-1. From your Shopify admin, go to **Online Store &gt; Themes**
-2. Find the theme that you want to edit and click **Customize**
+* From your Shopify admin, go to **Online Store &gt; Themes**
+
+* Find the theme that you want to edit and click **Customize**
 
 Different types of pages have different theme sections. When you first open the theme editor, the settings for the home page are shown. To access the settings for other pages, **select the page type from the top bar drop-down menu:**![](/assets/settings.png)
 
@@ -15,16 +16,17 @@ Next, let's explore how to configure our theme with built-in **Sections** and **
 
 \(_New to Shopify? Please refer to _[_this_](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings)_ to get knowledge of what **Sections **and **Theme settings** are_\)
 
-### Theme Settings
+## Sections {#sections-sections-specific}
 
-You can edit your theme settings to customize your online store's content, layout, typography, and colors. Each theme provides settings that allow you to change the look and feel of your store without editing any code.
+Sections are customizable blocks of content that determine the layout of your online store. Each theme includes static sections and dynamic sections.
 
-### Sections
+### Static sections {#static-sections}
 
-Sections let you empower merchants by giving them greater flexibility when customizing their online store \([source](https://www.shopify.com/partners/blog/introducing-sections-for-shopify-themes)\).  
-There are two types of Sections: Static and Dynamic.
+Static sections are always in specific locations on your online store. You can[edit static sections](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#edit-static-sections), but you can't rearrange or remove them. Each type of page on your online store includes different static sections.
 
-## 
+### Dynamic sections {#dynamic-sections}
+
+You can [add](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#add-dynamic-sections), [rearrange](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#rearrange-dynamic-sections), and [remove](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#remove-dynamic-sections) dynamic sections to customize the layout of your home page. Each theme has a unique set of dynamic sections to choose from.
 
 
 
