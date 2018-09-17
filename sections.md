@@ -61,7 +61,6 @@ From your Shopify admin, go to
 
 2. In the theme editor toolbar, click the eye icon for the section that you want to hide:
 
-  
 ![](/assets/hidesection.png)
 
 ---
@@ -80,7 +79,7 @@ From your Shopify admin, go to
 
 3. In the**Content**section, click the content you want to remove from the section.
 
-4. Click**Delete \[content\]**, where \[content\] is the content type \(_collection_,_image_, or_logo_, for example\).
+4. Click **Delete \[content\]**, where \[content\] is the content type \(_collection_,_image_, or_logo_, for example\).
 
 #### You can remove a dynamic section from your home page.
 
@@ -92,7 +91,7 @@ From your Shopify admin, go to
 
 3. Click**Delete section**at the bottom of the toolbar.
 
-####  
+#### 
 
 
 

@@ -11,7 +11,7 @@ Before you customize your theme, it's a good idea to do the following tasks:
 
 ### Change page to customize sections
 
-Different types of pages have different theme sections. When you first open the theme editor, the settings for the home page are shown. To access the settings for other pages, **select the page type from the top bar drop-down menu:    
+Different types of pages have different theme sections. When you first open the theme editor, the settings for the home page are shown. To access the settings for other pages, **select the page type from the top bar drop-down menu:        
 **![](/assets/settings.png)
 
 The **theme editor toolbar** is divided into **Sections **and T**heme settings**.  
@@ -31,11 +31,14 @@ Static sections are always in specific locations on your online store. You can [
 
 You can [add](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#add-dynamic-sections), [rearrange](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#rearrange-dynamic-sections), and [remove](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings#remove-dynamic-sections) dynamic sections to customize the layout of your home page. Each theme has a unique set of dynamic sections to choose from.
 
-**Shopify Dynamic sections now only support for Homepages**
+**Shopify Dynamic sections now only support for Homepages. The Electro theme now support multi dynamic sections:  
+**![](/assets/list dynamic section.png)
 
 ---
 
 ### Following topics
 
+1. [**Customize Sections: Add, Edit, Hide, Remove**](/sections.md)
+2. 
 
 

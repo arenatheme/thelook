@@ -18,7 +18,7 @@
 * [Theme Customization:](theme-customization.md)
   * [Sections](sections.md)
   * [Theme settings](theme-settings.md)
-* [Collection](collection.md)
+  * [Collection](collection.md)
 * [Products Pages](products.md)
   * [Product Templates](products/product-templates.md)
   * [Product Variant: Color or Image](products/product-color-variant.md)
@@ -29,7 +29,7 @@
 
 ## Extensions
 
-* Mega Navigation Setup
+* [Mega Navigation Setup](extensions/mega-navigation-setup.md)
   * Sticky The Menu
 * Changelog
 
