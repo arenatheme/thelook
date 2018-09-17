@@ -29,6 +29,16 @@ Repeat steps 5 and 6 until you have uploaded all your images.
 
 ### Select Product Color or Images Variant.
 
+1. From your Shopify admin, go to **Online Store &gt; Themes.**
+2. Find the theme that you want to edit and click **Customize**.
+3. **From the top bar drop-down menu, select the type of page that you want to edit.**
+4. Click the Product Section to customize. Eg. Product pages default 
+5. Go to COLOR AND SIZE SWATCHES. 
+6. Click check **Adding Color Swatches** and Save. As it's show below.
+![](/assets/variant color.png)
+7. Click check **Use variant images for swatch color**. it's will use the product variant images instead of color.
+![](/assets/variant image.png)
+
 
 
 

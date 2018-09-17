@@ -7,7 +7,7 @@
 3. **From the top bar drop-down menu, select the type of page that you want to edit.**
 4. Click the Product Section to customize. Eg. Product pages default 
 5. Go to COLOR AND SIZE SWATCHES. 
-6. Click check and Save. Size Swatch turn on and show as bellow
+6. Click check **Adding Size Swatches** and **Save**. Size Swatch turn on and show as bellow
 
 ![](/assets/sizevariant.png)
 
