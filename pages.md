@@ -44,5 +44,9 @@ From your Shopify
 
 2. **From the top bar drop-down menu, select the type of page that you want to edit.**
 
-It's will show the sections for each page.![](/assets/page.png)3. **Change your Section setting** and click **Save** 
+It's will show the sections for each page.![](/assets/page.png)3. **Change your Section setting** and click **Save**
 
+### Related topics
+
+1. [Add Wishlist Compare page](/pages/wishlist.md)
+2. [Add FAQs page.](/pages/faq-page.md)

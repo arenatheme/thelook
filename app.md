@@ -14,8 +14,7 @@ By default, our theme apply 3 Shopify apps, all is free. **You must install to 
 
 ### Following topics
 
-* Adding Page template  to work with Wishlist & Compare By Arena
-* Adding Page template to work with FAQs app.
+* [Adding Page template  to work with Wishlist & Compare By Arena](/pages/wishlist.md)
 
 
 
