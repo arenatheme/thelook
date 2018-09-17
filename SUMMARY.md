@@ -20,7 +20,6 @@
   * [Theme settings](theme-settings.md)
 * [Collection](collection.md)
 * [Products Pages](products.md)
-  * [Product Templates](products/product-templates.md)
   * [Product Variant: Color or Image](products/product-color-variant.md)
   * [Product Quantity Selector](products/product-quantity-selector.md)
   * [Pro Multi-Tab Description](products/product-multi-tab-description.md)

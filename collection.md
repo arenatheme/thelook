@@ -20,6 +20,8 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 There are 4 Static Section: **Header, Collection pages \(main content\), Bottom, Footer. **You can click to each sections to be setting following panel.
 
+
+
 ---
 
 ### Add Sub-collection \(sub-categories\) to Collection page
@@ -53,6 +55,4 @@ Add mention in [**Shopify metafield**](/shopify-metafield.md), you may use **Cus
 * Add **Handle name of Sub Collection menu** you created above to **subcategory field **and **save it.**
 
 You may also using customfield extension to add **Handle name of Sub Collection menu **to Collection metafield.
-
-
 
