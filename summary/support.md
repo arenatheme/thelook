@@ -18,5 +18,3 @@ If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Dow
 
 **_Arena STC_**
 
-{% endmethod %}
-
