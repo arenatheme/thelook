@@ -31,5 +31,6 @@
 
 * [Mega Navigation Setup](extensions/mega-navigation-setup.md)
   * Sticky The Menu
+* [Multi Currency](summary/currency.md)
 * Changelog
 

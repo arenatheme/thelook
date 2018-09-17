@@ -77,9 +77,9 @@ From your Shopify admin, go to
 
 2. Click the section containing the content that you want to remove.
 
-3. In the**Content**section, click the content you want to remove from the section.
+3. In the **Content **section, click the content you want to remove from the section.
 
-4. Click **Delete \[content\]**, where \[content\] is the content type \(_collection_,_image_, or_logo_, for example\).
+4. Click **Delete \[content\]**, where **\[content\]** is the content type \(_collection_,_image_, or_logo_, for example\).
 
 #### You can remove a dynamic section from your home page.
 
