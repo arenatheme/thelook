@@ -37,7 +37,6 @@
 ## Extensions
 
 * [Mega Navigation Setup](extensions/mega-navigation-setup.md)
-  * Sticky The Menu
 * [Multi Currency](summary/currency.md)
 * [Fomo Popup](theme-settings.md)
 * [Changelog](extensions/changelog.md)
