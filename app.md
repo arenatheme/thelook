@@ -12,5 +12,10 @@ By default, our theme apply 3 Shopify apps, all is free. **You must install to 
 
 * Orbelo [https://apps.shopify.com/oberlo](https://apps.shopify.com/oberlo)
 
+### Following topics
+
+* Add Page Wishlist & Compare page template
+* Add FAQs page template
+
 
 
