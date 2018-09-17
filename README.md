@@ -21,4 +21,5 @@ Your website will have the same interface as our theme demo.
 * [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
 * [Install Requirement Shopfiy Apps](/app.md)
 * [Apply Theme Styles](/change-theme-styles.md)
+* [Setup converting currencies in your store](/summary/currency.md)
 
