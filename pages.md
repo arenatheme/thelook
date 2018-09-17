@@ -32,6 +32,8 @@ When you install Wishlist & Compare by Arena app, it's will sync two more page t
 * Page Wishlist - page.bc\_wishlist
 * Page Compare - page.bc\_compare
 
+
+
 ### 
 
 
