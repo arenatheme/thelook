@@ -117,7 +117,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 2. Go to objects such as **products**, **collection** you would like to add custom field.  
    ![](/assets/collection-noncustom.png)
 
-3. Click icon Load Custom Field at the top right you browser.   
+3. Click icon Load Custom Field at the top right you browser.  
    ![](/assets/add load customfield.png)
 
 4. Now Custom field will ready for you to add content
@@ -132,7 +132,15 @@ As we’ve seen, metafields have three components: **a namespace, a key, and a v
 
 Eg.
 
-For Collection page: https://electro-demo.myshopify.com/admin/bulk?resource\_name=Collection&
+For Collection page: [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=c_f.subcategory:string)
+
+In this URL, **c\_f** is the **metafield’s namespace** and **subcategory** is its key. You can replace these with values to match your use case. The **string** part of the URL tells Shopify about the type of data that we want to store in the metafield. The bulk editor is able to display **five types of metafields** – **string, money, boolean, select and number.**
+
+
+
+
+
+
 
 
 

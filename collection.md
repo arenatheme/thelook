@@ -26,9 +26,7 @@ There are 4 Static Section: **Header, Collection pages \(main content\), Bottom,
 
 Shopify dont support Sub-collection so in order to add subcollection, we use Metafield & menu items to display collection under menu items to collection pages as sub-collection.
 
-It's require to setup Metafield before to use this function. You may following instruction at [Shopify metafield](/shopify-metafield.md). After install Metafield as requirement, you may use [**Custom Fields**](http://freakdesign.com.au/pages/shopify-custom-fields) chrome app to add content for metafield.
-
-**Steps**
+It's require to setup Metafield before to use this function. You may following instruction at [**Shopify metafield**](/shopify-metafield.md)**.**
 
 #### Creat Sub Collection Menu.
 
