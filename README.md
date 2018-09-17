@@ -17,7 +17,7 @@ Your website will have the same interface as our theme demo.
 ### Related topics
 
 * [Install theme by Arena Installation app.](/arena-installation.md)
-* [Install theme by Upload Theme Package download from ThemeForest. ](/upload-file.md)
+* [Install theme by Upload Theme Package](/upload-file.md)
 * [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
 * [Install Requirement Shopfiy Apps](/app.md)
 * [Apply Theme Styles](/change-theme-styles.md)
