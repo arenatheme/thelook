@@ -1,5 +1,3 @@
-# Summary
-
 ## Summary
 
 * [Support](summary/support.md)
