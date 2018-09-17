@@ -26,9 +26,34 @@ There are 4 Static Section: **Header, Collection pages \(main content\), Bottom,
 
 Shopify dont support Sub-collection so in order to add subcollection, we use Metafield & menu items to display collection under menu items to collection pages as sub-collection.
 
-It's require to setup Metafield before to use this function. You may following instruction at [Shopify metafield](/shopify-metafield.md).
+It's require to setup Metafield before to use this function. You may following instruction at [Shopify metafield](/shopify-metafield.md). After install Metafield as requirement, you may use [**Custom Fields**](http://freakdesign.com.au/pages/shopify-custom-fields) chrome app to add content for metafield.
 
+**Steps**
 
+#### Creat Sub Collection Menu.
+
+From your Shopify admin, go to
+
+1. On the **Navigation **page, click the title of the menu that you want to edit.
+
+2. Click **Add menu item**.
+
+3. Enter a title for the menu item. This title will be displayed in the menu.
+
+4. Click the **Link **field, and then select a link type collections, select sub-colection and add it.
+
+   * **Collections**
+     * a specific collection or all collections
+
+5. Select **Handle name** and click **Save**.
+
+#### Add Sub Collection Menu to Collection page by Metafield.
+
+From your Shopify admin, **go to Products &gt; Colelction**
+
+1. On the Pro
+
+#### 
 
 
 
