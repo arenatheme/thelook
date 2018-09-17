@@ -27,7 +27,8 @@
   * [Product Size Chart](sizechart.md)
   * [Short Description](products/countdown-product.md)
   * [Countdown Timer](products/count-down-product.md)
-  * [Video Thumbnail](products/add-video-thumbnail.md)
+  * [Video & 360 image](products/add-video-thumbnail.md)
+  * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
 * [Pages](pages.md)
   * [Wishlist & Compare](pages/wishlist.md)
   * [FAQ Page](pages/faq-page.md)
@@ -38,6 +39,5 @@
   * Sticky The Menu
 * [Multi Currency](summary/currency.md)
 * [Fomo Popup](theme-settings.md)
-* [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
 * [Changelog](extensions/changelog.md)
 

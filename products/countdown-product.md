@@ -8,7 +8,5 @@ You may following instruction about [Shopify Metafield name key description\_exc
 <ul><li><span class="a-list-item">Wireless</span></li><li><span class="a-list-item">Motion Sensing</span></li><li><span class="a-list-item">Compatible with Several Consoles/Games</span></li><li><span class="a-list-item">Enough Action Buttons</span></li><li><span class="a-list-item">Ergonomic</span></li></ul>
 ```
 
-
-
 ![](/assets/metafieldproduct.png)
 
