@@ -1,0 +1,1 @@
+Edit static sections
