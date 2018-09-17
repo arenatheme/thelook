@@ -66,12 +66,8 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
   ```
     - namespace: c_f
-    - key: bundle_1
-    - value: Add your product handle #1!
-
-    - namespace: c_f
-    - key: bundle_2
-    - value: Add your product handle #2!
+    - key: countdown_timer
+    - value: Date format is mm/dd/yyyy
   ```
 
 * _Add Short Description_
@@ -124,7 +120,7 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 ![](/assets/custom-field.png)** **
 
-5. **Click Save Custom Field** to save your data
+1. **Click Save Custom Field** to save your data
 
 ![](/assets/save customfield.png)
 

@@ -31,12 +31,13 @@
 * [Pages](pages.md)
   * [Wishlist & Compare](pages/wishlist.md)
   * [FAQ Page](pages/faq-page.md)
-* Blogs
 
 ## Extensions
 
 * [Mega Navigation Setup](extensions/mega-navigation-setup.md)
   * Sticky The Menu
 * [Multi Currency](summary/currency.md)
-* Changelog
+* [Fomo Popup](theme-settings.md)
+* [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
+* [Changelog](extensions/changelog.md)
 
