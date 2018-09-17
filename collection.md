@@ -47,9 +47,13 @@ From your Shopify admin, go to
 
 #### Add Sub Collection Menu to Collection page by Metafield.
 
-From your Shopify admin, **go to Products &gt; Colelction**
+Add mention in [**Shopify metafield**](/shopify-metafield.md), you may use **Custom Field Extensions** or **Bulk Editor** to add subcollection metafield.
 
-1. On the Pro
+By Bulk Editor you may following link [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=c_f.subcategory:string)
+
+Add **Handle name of Sub Collection menu** you created above to **subcategory field **and **save it**.
+
+1. From your Shopify admin, **go to Products &gt; Collection. **Select Colletion you would like to add sub collection.
 
 #### 
 

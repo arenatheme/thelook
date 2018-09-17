@@ -124,6 +124,10 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
 ![](/assets/custom-field.png)** **
 
+5. **Click Save Custom Field** to save your data
+
+![](/assets/save customfield.png)
+
 ---
 
 ### Bulk editing product metafield
