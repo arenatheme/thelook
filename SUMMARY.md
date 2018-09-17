@@ -26,6 +26,7 @@
   * [Product Size Chart](sizechart.md)
 * [Pages](pages.md)
   * [Wishlist & Compare](pages/wishlist.md)
+  * [FAQ Page](pages/faq-page.md)
 * Blogs
 
 ## Extensions
