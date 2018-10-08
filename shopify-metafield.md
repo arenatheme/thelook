@@ -49,6 +49,13 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
     - key: bundle_2
     - value: Add your product handle #2!
   ```
+* _**New: Add Progress bar: Only x left in stock**_
+
+  ```
+    - namespace: c_f
+    - key: sale_
+    - value: Total number of products you have in stock at the open sale
+  ```
 
 * _**New: Add Exit Intent Popup Product**_
 
@@ -61,6 +68,32 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
     - key: discount_percent
     - value: Display percent of discount
   ```
+* _**New: Add Buy X Get Y to Product Page**_
+
+  ```
+    - namespace: c_f
+    - key: buy_x_get_y
+    - value:  DISCOUNTED VALUE: Discount percent
+    
+    - namespace: c_f
+    - key: buy_x_get_y
+    - value:  Discount percent 
+
+    - namespace: c_f
+    - key: discount_code_x_y
+    - value: discount code buy x get y
+    
+    - namespace: c_f
+    - key: number_discount_x
+    - value: Quantity product X customer buy to apply Buy X get Y Coupon
+    
+    - namespace: c_f
+    - key: number_discount_y
+    - value: Quantity product Y customer gets when apply Buy X get Y Coupon
+  
+  ```
+
+
 
 * _Add Countdount Timer_
 
@@ -100,7 +133,9 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
     - value: Add your image size chart url!
   ```
 
-  **It's ready to use to add Custom Field for the Theme**
+
+
+* **It's ready to use to add Custom Field for the Theme**
 
 ---
 
