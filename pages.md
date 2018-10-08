@@ -27,7 +27,7 @@ You have to add page and select template field to show pages as our demo. It's i
 * Page default - page
 * Page about us - page.about
 * Page contact - page.contact
-* Page porfolio - page.porfolio
+* Page Lookbook - page.lookbook
 
 When you install Wishlist & Compare by Arena app, it's will sync two more page templates for Wishlist & Compare function
 
@@ -44,7 +44,8 @@ From your Shopify
 
 2. **From the top bar drop-down menu, select the type of page that you want to edit.**
 
-It's will show the sections for each page.![](/assets/page.png)3. **Change your Section setting** and click **Save**
+It's will show the sections for each page.![](/assets/page.png)
+3. **Change your Section setting** and click **Save**
 
 ### Related topics
 
