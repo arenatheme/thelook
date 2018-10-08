@@ -16,43 +16,26 @@ From your Shopify admin, go to **Online Store &gt; Themes**
 
 * Find the theme that you want to edit and click **Customize**
 
-* From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**![](/assets/collection.png)Now you can modify your collection layout.
+* From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
 
-There are 4 Static Section: **Header, Collection pages \(main content\), Bottom, Footer. **You can click to each sections to be setting following panel.
+![![](/assets/collection.png)
+](/assets/thelook-collection.png)
 
+Now you can modify your collection layout.
 
+There are 3 Static Section: **Header, Collection \(main content\), Footer. **You can click to each sections to be setting following panel.
+
+![](/assets/collection-modify.png)
 
 ---
 
-### Add Sub-collection \(sub-categories\) to Collection page
+### Setting Pagination Collection Page: Load More Button
 
-Shopify dont support Sub-collection so in order to add subcollection, we use Metafield & menu items to display collection under menu items to collection pages as sub-collection.
+From your Shopify admin, go to **Online Store &gt; Themes**
 
-It's require to setup Metafield before to use this function. You may following instruction at [**Shopify metafield**](/shopify-metafield.md)**.**
+* Find the theme that you want to edit and click **Customize**
+* From the top bar drop-down menu, select the type of page that you want to edit. **Select Collection Pages**
+* Select **Collection**
+* Move to **Pagination Collection Page** and select **Load More**
 
-#### Creat Sub Collection Menu.
-
-From your Shopify admin, go to
-
-1. On the **Navigation **page, click the title of the menu that you want to edit.
-
-2. Click **Add menu item**.
-
-3. Enter a title for the menu item. This title will be displayed in the menu.
-
-4. Click the **Link **field, and then select a link type collections, select sub-colection and add it.
-
-   * **Collections**
-     * a specific collection or all collections
-
-5. Select **Handle name** and click **Save**.
-
-#### Add Sub Collection Menu to Collection page by Metafield.
-
-Add mention in [**Shopify metafield**](/shopify-metafield.md), you may use **Custom Field Extensions** or **Bulk Editor** to add subcollection metafield.
-
-* By Bulk Editor you may following link [https://shopify.com/admin/bulk?resource\_name=Collection&edit=metafields.c\_f.subcategory:string](https://shopify.com/admin/bulk?resource_name=Collection&&edit=c_f.subcategory:string)
-* Add **Handle name of Sub Collection menu** you created above to **subcategory field **and **save it.**
-
-You may also using customfield extension to add **Handle name of Sub Collection menu **to Collection metafield.
 
