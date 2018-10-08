@@ -37,11 +37,14 @@ At Settings Extended you can customize extended function that use for theme:
 * Homepage: Add Left Column Section
 * Collection page: Select view mobile default, EU Cookie Policy
 
+### Menu Labels
+
+![](/assets/thelook-navigation-label.png)
+
 ### Cart Page
 
 At **Cart Page**, you can customize:
 
-* Disable Ajax Cart: when this option is turned on, ajax-auto-update function will be disabled, meaning with any changes in product quantity in your cart page, you will need to manually click **Update cart** button to update your cart.
 
 * Enable Search Function, Wishlist, Compare.
 
@@ -62,7 +65,6 @@ At **Cart Page**, you can customize:
 * Terms and Conditions
 
 
-
 ### Mega Navigation \(Horizontal\) & Vertical Mega Navigation
 
 Our theme supports 3 mega navigations \(MN\) and 3 vertical mega navigations \(VMN\). The difference between them is VMN has 3 columns meanwhile MN has up to 4 columns per menu. You may read more detail here https://arenathemes.freshdesk.com/support/solutions/articles/6000178155-how-to-setup-mega-menu-arenathemes
@@ -75,7 +77,7 @@ At **FOMO Popup**, you can customize:
 
 * Visitor Count Popups
 
-* **Discount BOGO Coupon: Apply BOGO Coupon code automatic**
+* **Exit Intent Popup Coupon**
 
 ### Popup Newsletter
 
