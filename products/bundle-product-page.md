@@ -11,8 +11,6 @@ The Bundle product meta field require add  2 [product handle](https://help.shopi
 - key: bundle_2
 - value: Add your product handle #2!
 ```
-![](/assets/bundle.png)
+![](/assets/thelook-bundle-product-metafield.png)
 
-![](/assets/metafieldproduct.png)
-
-
+![](/assets/thelook-bundle.png)
