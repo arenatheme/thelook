@@ -1,6 +1,19 @@
-### BUY X GET Y COUPON
+### CREAT BUY X GET Y COUPON
 
-Using 5 metafields following instruction: [Shopify Metafield name Bundle Product ](/shopify-metafield.md)
+If you would like to apply Coupon Code with detail following setup:
+
+- Discount code: xyz
+- Discount type: Buy X Get Y
+- Customer buys: 2 ALPHADOM PRODUCT SAMPLE product with product handle alphadom-product-sample -> Product X
+- Customer gets: 3 Black Fashion Zapda Shoes product with product handle black-fashion-zapda-shoes
+- AT A DISCOUNTED VALUE: 70%
+
+From your Shopify admin, go to **Discount** click **Creat Discount** and following setting
+
+
+### USING BOGO COUPON CODE TO CREAT PROMOTION AT PRODUCT PAGE
+
+Add 5 Custom metafields following instruction: [Shopify Metafield name Bundle Product ](/shopify-metafield.md)
 
 ```
 - namespace: c_f
@@ -25,20 +38,7 @@ Using 5 metafields following instruction: [Shopify Metafield name Bundle Product
 
 ```
 
-Eg. If you would like to apply Coupon Code with detail following setup:
+When navigate to Product page, add custom field for product page with detail
 
-- Discount code: xyz
-- Discount type: Buy X Get Y
-- Customer buys: 2 ALPHADOM PRODUCT SAMPLE product with product handle alphadom-product-sample -> Product X
-- Customer gets: 3 Black Fashion Zapda Shoes product with product handle black-fashion-zapda-shoes
-- AT A DISCOUNTED VALUE: 70%
-
-
-
-When navigate to Product page, add custom field for product page with Discount code & Discount percent detail.
-
-The popup will show when people go to outside of the webpage (Intent Exit). If the customer click to apply, it's will auto apply the coupon code at checkout step.
-**
-![](/assets/intentpopup.png)
-
+![](/assets/product-bogo-metafield.png)
 
