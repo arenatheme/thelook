@@ -13,6 +13,7 @@ From your Shopify admin, go to **Discount** click **Creat Discount** and followi
 
 ### USING BOGO COUPON CODE TO CREAT PROMOTION AT PRODUCT PAGE
 
+#### 1. Add Meta Field Settings
 Add 5 Custom metafields following instruction: [Shopify Metafield name Bundle Product ](/shopify-metafield.md)
 
 ```
@@ -37,8 +38,23 @@ Add 5 Custom metafields following instruction: [Shopify Metafield name Bundle Pr
 - value: Quantity product Y customer gets when apply Buy X get Y Coupon
 
 ```
+#### 2. Setting Product Custom Field - Metafield
 
-When navigate to Product page, add custom field for product page with detail
+Navigate to Product page, add custom field for product page with detail.
+[You may following instruction here to know how to add custom field](/shopify-metafield.md)
 
 ![](/assets/product-bogo-metafield.png)
+
+Click **Save Custom Field** and **Save** product
+
+#### 3. Show Promotion BOGO to Product Detail Page.
+
+From your Shopify admin, go to 
+
+1. Find the theme that you want to edit and click **Customize**.
+2. **From the top bar drop-down menu, select the type of page to edit: Product pages.**
+3. Click **Sections** tab > **Product pages** > **Metafields**
+4. Tick show buy 1 get 1 & Select Promotion Title. Click **Save**
+
+
 
