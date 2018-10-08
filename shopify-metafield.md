@@ -72,16 +72,16 @@ More detail [https://help.shopify.com/en/manual/products/metafields](https://hel
 
   ```
     - namespace: c_f
+    - key: discount_code_x_y
+    - value: discount code buy x get y
+    
+    - namespace: c_f
     - key: buy_x_get_y
     - value:  DISCOUNTED VALUE: Discount percent
     
     - namespace: c_f
-    - key: buy_x_get_y
-    - value:  Discount percent 
-
-    - namespace: c_f
-    - key: discount_code_x_y
-    - value: discount code buy x get y
+    - key: product_y
+    - value: Product Y Handle
     
     - namespace: c_f
     - key: number_discount_x
