@@ -27,6 +27,7 @@ At **Colors & Style**, you can customize:
 * Navigation color.
 * Footer color.
 * Buttons color.
+....
 
 ### Settings Extended
 
@@ -60,8 +61,6 @@ At **Cart Page**, you can customize:
 
 * Terms and Conditions
 
-* Upsell Products: a product slider which appears below your cart info in cart page.
-
 
 
 ### Mega Navigation \(Horizontal\) & Vertical Mega Navigation
@@ -75,6 +74,8 @@ At **FOMO Popup**, you can customize:
 * Sales Notification Popups
 
 * Visitor Count Popups
+
+* Discount FO
 
 ### Popup Newsletter
 

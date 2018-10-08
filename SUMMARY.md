@@ -31,8 +31,8 @@
   * [Video & 360 image](products/add-video-thumbnail.md)
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
 * [Pages](pages.md)
+  * [Lookbook](pages/lookbook.md)
   * [Wishlist & Compare](pages/wishlist.md)
-  * [FAQ Page](pages/faq-page.md)
 
 ## Extensions
 
