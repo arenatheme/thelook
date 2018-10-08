@@ -17,6 +17,5 @@ When navigate to Product page, add custom field for product page with Discount c
 
 The popup will show when people go to outside of the webpage (Intent Exit). If the customer click to apply, it's will auto apply the coupon code at checkout step.
 **
-![](/assets/intentpopup.png)
-
+![](/assets/thelook-intent-popup.png)
 

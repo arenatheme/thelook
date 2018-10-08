@@ -56,5 +56,5 @@ From your Shopify admin, go to
 3. Click **Sections** tab > **Product pages** > **Metafields**
 4. Tick show buy 1 get 1 & Select Promotion Title. Click **Save**
 
-
+![](/assets/buy-one-get-one.png)
 
