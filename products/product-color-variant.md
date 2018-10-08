@@ -35,10 +35,8 @@ Repeat steps 5 and 6 until you have uploaded all your images.
 4. Click the Product Section to customize. Eg. Product pages default 
 5. Go to COLOR AND SIZE SWATCHES. 
 6. Click check **Adding Color Swatches** and Save. As it's show below.
-![](/assets/variant color.png)
 7. Click check **Use variant images for swatch color**. it's will use the product variant images instead of color.
-![](/assets/variant image.png)
-
+![](/assets/thelook-product-swatch.png)
 
 
 
