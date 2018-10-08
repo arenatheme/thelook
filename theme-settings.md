@@ -75,7 +75,7 @@ At **FOMO Popup**, you can customize:
 
 * Visitor Count Popups
 
-* Discount FO
+* Discount BOGO Coupon: Apply BOGO Coupon code automatic
 
 ### Popup Newsletter
 
