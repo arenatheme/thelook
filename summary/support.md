@@ -1,4 +1,4 @@
-## Getting started with Electro 4.0
+## Getting started with Thelook 2.0
 
 ###New to Shopify?
 
