@@ -1,24 +1,20 @@
-You can add a theme in **two ways**:
+## Getting started with 
 
-* **Upload theme package** file .zip on your computer to Shopify.
-* Instal our Shopify app **Arena Installaton**.
-
-**Arena Installation app** support
-
-* Quickly and easily **Installation & Switch** theme in case the theme support multi-style ** without upload file.**
-
-* Importing our sample data includes **product data**, **metafield** settings, our **prefine setting data **for multi style **setting data** theme style.
-
-Your website will have the same interface as our theme demo.
-
-### Following topics
-
-* [Install theme by Arena Installation app.](/arena-installation.md)
-* [Install theme by Upload Theme Package](/upload-file.md)
-* [Setup converting currencies in your store](/summary/currency.md)
-* [Install Requirement Shopfiy Apps](/app.md)
-* [Setup Shopify Metafield for Extend Function](/shopify-metafield.md) 
-* [Apply Theme Styles](/change-theme-styles.md)
+###New to Shopify?
 
 
+If you're setting up a Shopify store for the first time, we recommend taking a gander at the Shopify [Help Center](https://help.shopify.com/) for a full overview of the platform.  
+
+**Frequently asked questions **[ArenaTheme FAQs](https://arenathemes.freshdesk.com/solution/folders/6000229740)
+
+If you have any questions that are beyond the scope of this help file, please feel free to send us a message to <a href="mailto:support@arenathemes.com">support@arenathemes.com</a>
+
+If you are satisfied with our themes, please rate us 5 stars at [ThemeForest Download Tab](https://themeforest.net/downloads). It encourages us to continue the research to optimize our products and services.
+
+
+
+**THANK YOU FOR PURCHASING OUR THEME !**
+
+
+**_Arena STC_**
 

@@ -2,16 +2,16 @@
 
 ## Readme
 
-* [Support](summary/support.md)
+* [Read me](README.md)
 
 ## Getting started
 
-* [Theme Installation](README.md)
-  * [Arena Installation](arena-installation.md)
-  * [Upload File](upload-file.md)
-* [Requirement Apps](app.md)
+* [Theme Installation](summary/theme-installation.md)
+  * [Arena Installation Application](summary/theme-installation/arena-installation-application.md)
+  * [Manual Upload Theme](summary/theme-installation/manual-upload-theme.md)
+  * [Requirement Apps](app.md)
+  * [Theme Styles](change-theme-styles.md)
 * [Shopify Metafield](shopify-metafield.md)
-* [Theme Styles](change-theme-styles.md)
 * [Theme Updated](theme-updated.md)
 
 ## Customization
