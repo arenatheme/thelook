@@ -1,4 +1,4 @@
-## Getting started with Thelook 2.0
+## Getting started with 
 
 ###New to Shopify?
 
