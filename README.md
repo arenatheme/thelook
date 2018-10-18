@@ -1,7 +1,8 @@
-## Getting started with 
+##  ONLINE DOCUMENT: 
+
+Please visit here: https://arenatheme.gitbooks.io/thelook/content/
 
 ###New to Shopify?
-
 
 If you're setting up a Shopify store for the first time, we recommend taking a gander at the Shopify [Help Center](https://help.shopify.com/) for a full overview of the platform.  
 
