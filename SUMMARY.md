@@ -31,6 +31,7 @@
   * [Countdown Timer](products/count-down-product.md)
   * [Video & 360 image](products/add-video-thumbnail.md)
   * [Exit Intent Popup Coupon](extensions/exit-intent-popup.md)
+  * [Group Product Variant Images](products/product-variants-image-group.md)
 * [Pages](pages.md)
   * [Lookbook](pages/lookbook.md)
   * [Wishlist & Compare](pages/wishlist.md)
