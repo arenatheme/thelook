@@ -1,6 +1,6 @@
 ##  ONLINE DOCUMENT: 
 
-You may read the document online here: https://arenatheme.gitbooks.io/thelook/content/
+You can follow this document on:  https://arenatheme.gitbooks.io/thelook/content/
 
 ###New to Shopify?
 
