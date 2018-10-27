@@ -1,11 +1,12 @@
-### Requirement Apps
+### Requirement Apps
 
-By default, our theme apply 3 Shopify apps, all is free. **You must install to use following function on the website.**
+By default, our theme apply 2 Shopify apps, all is free.
+
+**You must install to use following theme function**
 
 * Wishlist & Compare for Shopify Store. [Wishlist Compare by Arena](https://apps.arenatheme.com/install)
 
 * Product Reviews: [Shopify Product Reviews](https://apps.shopify.com/product-reviews)
-
 
 ### Compatible Shopify App.
 
